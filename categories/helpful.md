@@ -1,0 +1,31 @@
+# Helpful and household
+
+Sorted automatically by keywords in each experiment's description, so some experiments appear in more than one category.
+
+- [Experiment 000: Zero](../experiments/000.md)
+- [Experiment 010: Felix](../experiments/010.md)
+- [Experiment 020: Slick](../experiments/020.md)
+- [Experiment 029: Checkers](../experiments/029.md)
+- [Experiment 036: Poki](../experiments/036.md)
+- [Experiment 062: Frenchfry](../experiments/062.md)
+- [Experiment 128: Bugby](../experiments/128.md)
+- [Experiment 145: Bragg](../experiments/145.md)
+- [Experiment 204: Nosox](../experiments/204.md)
+- [Experiment 222: Poxy](../experiments/222.md)
+- [Experiment 223: Glitch](../experiments/223.md)
+- [Experiment 249: Sproing](../experiments/249.md)
+- [Experiment 251: Link](../experiments/251.md)
+- [Experiment 267: Wishy-Washy](../experiments/267.md)
+- [Experiment 275: Tickle-Tummy](../experiments/275.md)
+- [Experiment 277: Snooty](../experiments/277.md)
+- [Experiment 397: Spats](../experiments/397.md)
+- [Experiment 505: Ploot](../experiments/505.md)
+- [Experiment 523: Slushy](../experiments/523.md)
+- [Experiment 531: Hisee](../experiments/531.md)
+- [Experiment 603: Zap](../experiments/603.md)
+- [Experiment 613: Yaarp](../experiments/613.md)
+- [Experiment 619: Splodyhead](../experiments/619.md)
+- [Experiment 625: Reuben](../experiments/625.md)
+- [Experiment 626: Stitch](../experiments/626.md)
+
+[Back to index](../INDEX.md)

@@ -1,0 +1,3775 @@
+{{Species Infobox
+|image = Leroy & Stitch - The Experiments group shot.jpg
+|films = ''[[Stitch! The Movie]]<br>[[Leroy & Stitch]]<br>[[Lilo & Stitch 2 (2028 film)|Lilo & Stitch 2]]'' (upcoming)
+|shows = ''[[Lilo & Stitch: The Series]]<br>[[Stitch!]]''
+|games = {{Scroll|''[[Disney's Stitch: Experiment 626]]<br>[[Lilo & Stitch 2: Hämsterviel Havoc]]<br>[[Meteos: Disney Magic]]<br>[[Kingdom Hearts: Birth by Sleep]]<br>[[Stitch Jam]]<br>[[Cosmic Slugger]]<br>[[Motto! Stitch! DS]]<br>[[Stitch! Super Chef]]<br>[[Stitch!Now]]<br>[[Disney Tsum Tsum (game)|Disney Tsum Tsum]]<br>[[Disney Magic Kingdoms]]<br>[[Disney Sorcerer's Arena]]<br>[[Disney Heroes: Battle Mode]]<br>[[Disney Speedstorm]]''}}
+|voice = Various
+|alias = Stitch's cousins<br>Trogs/Abominations
+|occupation = Varies
+|home = [[Planet Turo|Turo]] ("birth" planet)<br>[[Hawaii]] (adoptive home)<br>[[Plorgonar]] ([[Mr. Stenchy]]'s adoptive home)<br>[[Prison Asteroid K-37]] ([[Leroy]] and [[Leroy Clones|his clones]])
+|members = [[Experiments#List of experiments|See below]]
+|abilities = Varies
+|status = Active}}
+{{Quote|Well, [[Stitch]] '''is''' number 626. These must be the other 625!|[[Pleakley]]|Stitch! The Movie}}
+This is a list of '''experiments''' from [[The Walt Disney Company|Disney]]'s [[Lilo & Stitch (franchise)|''Lilo & Stitch'' franchise]], most of them making their first appearance in ''[[Lilo & Stitch: The Series]]''. These fictional experiments, also referred to as '''Stitch's cousins''', are genetically engineered creatures created by [[Jumba Jookiba|Dr. Jumba Jookiba]] in his lab at "[[Galaxy Defense Industries]]", with the assistance of [[Dr. Hämsterviel|Dr. Jacques von Hämsterviel]], who funded the projects with "shady" business deals. Prior to the events of ''[[Lilo & Stitch]]'', every experiment created was dehydrated into a small orb called an "[[Experiment Pods|experiment pod]]" and stored in a special [[Experiment Pod Container|container]] for transport. In ''[[Stitch! The Movie]]'', the container was accidentally opened, and the pods dispersed and rained down on the island of Kauaʻi. The experiments within the pods are reactivated upon contact in water, a point of concern because many of the experiments are dangerous and Kauaʻi hosts one of the wettest spots on Earth.
+
+Upon encountering each experiment, whose information is contained in Jumba's [[Jumba's Computer|database]], [[Stitch]]'s human friend and partner [[Lilo Pelekai|Lilo]] gives the experiment a name just as she gave Stitch his name. The two then attempt to rehabilitate the experiments and find a purpose for them on Earth that suits their specific abilities, referred to as the "one true place" they belong.
+
+Stitch, inspired by [[Hawaii]]'s terminology, refers to the other experiments as his "cousins" and considers them all a part of his ''[[Pelekai ʻohana|ʻohana]]'', or "extended family". [[Captain Gantu|Gantu]] usually refers to the experiments as "trogs" or "abominations". All of Jumba's original 626 experiments have their names and numbers listed alongside the credits in ''[[Leroy & Stitch]]''.
+
+==Background==
+===Biology===
+Due to different experiments' original purposes, the majority of experiments each have a unique appearance, powers, and weaknesses. Though all experiments have unique capabilities and functions, most of them have some abilities in common due to Jumba reusing DNA from one experiment as a prototype for a different experiment, like the similarities of body shape, appearance, and even for powers like in the case of Jumba reusing some of Twang (021)'s DNA in the creation of [[Bragg]] (145), granting the latter musical ability. Most seem capable of scaling walls like a gecko (as Stitch frequently does); many are able to grow and retract an extra pair of arms. Since they are genetic experiments each created with multiple kinds of DNA that Jumba sampled throughout the galaxy, they all age quite differently than creatures on Earth as seen with Lilo and the rest of humanity when time is lapsed twenty years in "[[Skip (episode)|Skip]]".
+
+It is also shown that some experiments' powers (such as [[Mr. Stenchy]] (254)'s cuteness, and [[Checkers]] (029)'s hypnotic effect) do not affect other experiments, possibly so that these powers do not prevent other experiments from carrying out their primary functions. If affected by other experiments' powers, it might be temporary as Stitch managed to recover from [[Drowsy]] (360)'s sleep-inducing program without being exposed to water. Though [[Angel (Lilo & Stitch)|Angel]] (624) primarily reverts other experiments (before her time) to evil, [[Amnesio]] (303) and [[Retro]] (210) can do so as well.
+
+Additionally, it is shown that when an experiment is dehydrated, they will deactivate and turn into a small orb called an experiment pod. If an experiment pod gets wet, the experiment will be reactivated and released. According to Jumba, a home food dehydrator is the only known method of deactivating an experiment a second time.
+
+On numerous occasions, it has been shown that most, if not all, of the experiments have an intentional imperfection added to their design by Jumba: a "fail-safe" of some sort. These imperfections were presumably added in by Jumba in the event his experiments ran out of control, in order to provide him with a way of stopping them in their tracks. Even his most powerful experiments, like [[627]] and [[Leroy]], both had their own intentional imperfection, with an overreactive sense of humor and the song "[[Aloha ʻOe]]" being their respective imperfections.
+
+===Creation===
+Upon each experiment's creation, it is important that their molecules be charged. If an experiment's molecules are not fully charged, about a year after their creation, they will suffer glitches, during which they will experience seizures and temporarily revert to their original programming. If the molecular charging process is not completed, these glitches will eventually burn out the experiment's circuits like a supernova and kill them.
+
+===Experiment series===
+The first digit of the experiment numbers reflect what series of experiment they belong to. The official series of experiments, as stated by [[Jess Winfield]], one of the executive producers, are as follows:
+*'''0-Series:''' Jumba's test batch, including many household helpers.
+*'''1-Series:''' Civic disturbances.
+*'''2-Series:''' Technological and scientific.
+*'''3-Series:''' Psychological.
+*'''4-Series:''' Top secret and mysterious series of militaristic and mostly failed experiments.
+*'''5-Series:''' Elemental and environmental manipulators.
+*'''6-Series:''' Battlefield and doomsday experiments with galactic implications.
+
+For the most part, the colors of the experiment pods correspond to the series numbers; however, some of the pods are colored incorrectly.
+
+==List of experiments==
+===0-Series: Jumba's test batch, including many household helpers===
+<!-- Please do not add speculative descriptions of the experiments based upon their name. This is not fact. If you have verifiable information on what the experiment does, then add it and state your source. -->
+{| class="wikitable mw-collapsible mw-collapsed" width="100%"
+! scope="col" colspan="4" |Click "expand" for full list
+|-
+!'''Number'''
+!'''Pod Color'''
+!'''Nickname'''
+!'''Episode/Film'''
+|-class="vevent" style="text-align:center;"
+|000
+|
+|[[Zero (Stitch!)|Zero]]
+|''Stitch!''
+|-
+| colspan="4" |A purple version of Stitch with the same abilities, but he turns into a black, cyborg experiment, part machine, part alien. His alien form resembles a cross between some sort of lizard, and a koala (and robot) with a bat-like face. He has two cyborg arms, three spider-like legs, and half-helmet (right half of his face is metal) with a big black cyclopic-like right eye from some unknown incident. His cyborg arms serve many purposes such as cybernetic rope, laser guns, forked harpoon, and welding tool, and his cyborg eye has zoom functions and improves his aim. He is an evil experiment that is a cyborg version of Stitch.
+|-class="vevent" style="text-align:center;"
+|001
+|Red
+|[[Shrink]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A small purple experiment with a lilac lower jaw and chest, three wobbly legs, two stubby little arms and two floppy antennae with two rings on each antenna. Designed to zap a green ray from his antennae to change the size of objects. His picture appears on the wall of Jumba's lab in ''Leroy & Stitch'', along with several other pictures of Jumba and Dr. Hämsterviel's early accomplishments.
+|-class="vevent" style="text-align:center;"
+|002
+|
+|[[Doubledip]]
+|''Leroy & Stitch''
+|-
+| colspan="4" | A purple opossum-like experiment with two light purple stripes on the back of his ears, beady eyes and an orange nose (in ''Leroy & Stitch'', his nose is dark purple). Designed to double-dip food. His one true place is with Mrs. Hasagawa as one of her "cats". He somehow changed in size in ''Leroy & Stitch''.
+|-class="vevent" style="text-align:center;"
+|003
+|
+|Howcome
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|004
+|
+|Squawk
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|005
+|Red
+|Truxx
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''[[Stitch!]]''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|006
+|
+|Percy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|007
+|Blue
+|[[Gigi]] (also known as "Yapper")
+|108, 118, 209, ''Leroy & Stitch''
+|-
+| colspan="4" |She is a white Shih Tzu-like experiment with a purple bow. Designed to annoy individuals with her constant barking. She behaves like a typical "good dog": does tricks, licks her owner's face, fetches the morning paper, etc. Because of her appearance and behavior, 007 was adopted by Mertle and wasn't recognized as an experiment until Jumba saw her. Her episode is named "Yapper" after the nickname Lilo gave her, but her name is officially given as "Gigi" on the experiment name list in ''Leroy & Stitch''. Her one true place is with Mertle as her pet. In ''Leroy & Stitch'', it is revealed that she can speak English very well. At the end of the movie, Mertle joins Lilo and Stitch's ''ʻohana'' because Gigi wants to be in it with the rest of Jumba's experiments. She is voiced by Tress MacNeille.
+|-class="vevent" style="text-align:center;"
+|008
+|
+|Carmine
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|009
+|
+|[[Pop]]
+|''Stitch!''
+|-
+| colspan="4" |Designed to discombobulate enemies by blowing and popping massive balloons.
+|-class="vevent" style="text-align:center;"
+|010
+|
+|[[Felix (Lilo & Stitch)|Felix]]
+|131, 224, 226, ''Leroy & Stitch''
+|-
+| colspan="4" |A green anteater/elephant-like experiment with a small body, mouth, arms and legs, a thin tail with a brushy fuzz at the end, a vacuum-like trunk that can fire lasers, dark eyes, short ears, and three dark-tipped spines. Designed to sterilize, disinfect, and clean everything in sight. However, his programming began to cause him to take extreme and dangerous measures to keep everything clean: he threw anything away, assuming it was trash, and tried to "sterilize" anyone, assuming they were germs. 010 was then upgraded by Jumba to make him less of a neat-freak; however, the upgrade malfunctioned, and instead, 010 was turned into a dirt-maker (renamed Oscar), so Lilo gave him to Gantu, who sent 010 to Hämsterviel, who sent him ''back'' to Gantu when Woops almost blew his cover. Felix was later rescued in "Snafu". The only word that 010 can say is "dirty"; as Felix he says it disgustedly, while when upgraded to "Oscar" he exclaims it happily as he makes a mess. Both of 010's nicknames are a reference to the main characters of ''The Odd Couple''. He is voiced by Tress MacNeille.
+|-class="vevent" style="text-align:center;"
+|011
+|
+|Inkstain
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|012
+|
+|Antitherm
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|013
+|
+|Furry
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|014
+|
+|[[Kernel]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A tan gourd-shaped experiment with a large opening at the top of his head. Designed to pop popcorn. His one true place is in a movie theatre. Was mentioned in "Angel" when Jumba falsely said, "624 is a harmless ''early'' experiment. Designed to... pop popcorn for Jumba's movie night."
+|-class="vevent" style="text-align:center;"
+|015
+|
+|Ruggles
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|016
+|
+|Matt
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|017
+|
+|Lidds
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|018
+|
+|Puck
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|019
+|
+|Clumsy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|020
+|
+|[[Slick]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A fast-talking, pink experiment with a resemblance to Jumba and Cannonball (520), but with a smaller face and two ebony-black eyes who wears a straw boater hat and bow-tie, carries a cane, and acts as a salesperson who never turns down a customer. Designed to be able to sell anything to anyone. Lilo used him to get ahead in the chocolate bar selling contest/fundraiser, but Mertle took him. When Lilo took him back, Mertle took him back again. Lilo tried to take him back once more, but found out Mertle sold him to Reuben. Slick was rescued, but Lilo had to give up the contest by giving her last chocolate bar to Gantu as a swap for Slick. His one true place is at a fundraiser, following which he began working for charity, not profit. Slick was one of the experiments Lilo turned to for the capture of Ploot, but besides selling her an umbrella that she later used against Ploot, he didn't/couldn't help. He is voiced by Jeff Glen Bennett.
+|-class="vevent" style="text-align:center;"
+|021
+|Green
+|Twang
+|''Stitch!''
+|-
+| colspan="4" |Designed to annoy individuals by playing folk music of Jumba's home planet. In the [[Stitch!|Japanese anime]], it is mentioned that some of Twang's DNA was used by Jumba when he created Experiment 145, giving Bragg the ability to play the folksy flute.<br>
+'''Note:''' Bragg (Experiment 145) was called 021 in the Japanese episode, but still called Bragg. This lead to some media thinking Twang appeared in Stitch!, when Experiment 021 technically hasn't made any appearances, though Bragg was created using some of Twang's DNA. The English dub corrected Bragg's number to 145 and Yuna gave him the name Flute. Twang still has not appeared in any media.
+|-class="vevent" style="text-align:center;"
+|022
+|Red
+|[[Hertz Donut]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A dark-green, seahorse-like experiment with lips shaped like a doughnut. Designed to project donuts which can restrain and immobilize movement. First he asks, "Ever had a Hertz Donut?" Then he fires energy which solidifies into a donut around the target, and says, "Hurts, don't it?"
+|-class="vevent" style="text-align:center;"
+|023
+|
+|Cyclo
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|024
+|
+|Hamlette
+|220
+|-
+| colspan="4" |This experiment was activated at the same time Mrs. Hasagawa's cats were, though it wasn't seen. Pleakley mentions this experiment in "[[Remmy (episode)|Remmy]]" as being an experiment that turns things into ham.
+|-class="vevent" style="text-align:center;"
+|025
+|White
+|[[Topper]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A small yellow star-shaped creature with a little antenna on his head. Designed to be a beacon to signal the alien attack fleet, but the official Disney website states his purpose is to keep individuals awake with his bright light. Topper is given to a little girl as a Christmas present, then placed atop the local Christmas tree and emits a light so bright that aliens from other galaxies can see him from Earth. His number is likely a reference to Christmas Day (December 25). He is voiced by Tress MacNeille.
+|-class="vevent" style="text-align:center;"
+|026
+|
+|Pawn
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|027
+|
+|Plushy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|028
+|
+|Lori
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|029
+|
+|[[Checkers]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A yellow centipede-like experiment that sits curled up like a crown on individuals' heads. Designed to make his wearer a king or queen by hypnotizing those around them, with the exception of other experiments. The victims retain their normal personality while under its control, and the effect immediately wears off once Checkers is removed. Lilo first donned him, but her so-called good intentions got many individuals arrested by Mertle for being "troublemakers" when they accidentally disobeyed Lilo's rules. When Lilo decided to step down, Gantu took Checkers and was in power until Stitch gathered several experiments to help overthrow him.
+|-class="vevent" style="text-align:center;"
+|030
+|
+|Vialet
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|031
+|
+|[[Gotchu]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |An orange lobster-like experiment. Designed to run around and pinches things with his four pincers. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|032
+|
+|[[Fibber]]
+|113, 201, 224, 226, ''Leroy & Stitch''
+|-
+| colspan="4" |A small orange experiment with small body, arms and legs, a large head with dark orange mark on the forehead, little antennae, a little mouth, a round nose, black eyes and four ears. Designed to detect lies. When a lie is told, he beeps loudly and the pattern on his forehead lights up. The bigger the lie, the louder he beeps, and the brighter the pattern lights up. Fibber was captured by Gantu, but rescued by Lilo and Stitch in "Snafu." He was also part of Pleakley's E.A.R.W.A.X. group in "Spike", which was a blooper in the episode since he was captured by Gantu at the time. He is voiced by Jeff Glen Bennett.
+|-class="vevent" style="text-align:center;"
+|033
+|
+|[[Hammerface]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A blue dinosaur-like experiment with short forearms and a thick tail and legs. Designed to drive in nails around Jumba's house with his hammer-shaped head/face, but at times he will pound living things. He was used by Gantu to defeat Stitch in "Dupe" and rescued by Lilo's rescue team in "Snafu." 033 was called "Hammerhead" by Pleakley in "The Asteroid". In "Stitch! The Movie", his number is 124.
+|-class="vevent" style="text-align:center;"
+|034
+|
+|Splort
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|035
+|
+|Philip
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|036
+|
+|[[Poki]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A small yellow and brown opossum-like experiment with a spiked tail. Designed to poke holes in liquid containers. He was seen in "Shoe," where he helped turn Jumba's ship into a hotel by putting up an umbrella over an outdoor table and holding a palette for Lilo to paint an arrow sign titled "Jumba & Pleakley's Bed & Not Breakfast."
+|-class="vevent" style="text-align:center;"
+|037
+|
+|Snipper
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|038
+|
+|Plats
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|039
+|
+|Atlas
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|040
+|
+|[[Backhoe]]
+|203, 207, 215, ''Leroy & Stitch''
+|-
+| colspan="4" |A gray mole-like experiment with large black claws. Designed to scrape up vegetation, and is also an efficient digger. He was first seen in "Shoe," where he dug the pool for "Jumba & Pleakley's Bed & Not Breakfast," and was part of the "rebellion" in "Checkers."
+|-class="vevent" style="text-align:center;"
+|041
+|
+|Kitsch
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|042
+|White
+|Itch
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|043
+|
+|Cubesteak
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|044
+|Green
+|[[Forehead]]
+|220, ''Leroy & Stitch''
+|-
+| colspan="4" |A pink, four-headed mustachioed experiment with four arms and four red bow-ties on his necks that speaks English. Designed to sing barbershop music off-key, agonizing anyone who hears it. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|045
+|
+|Melvin
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|046
+|
+|Wedgie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|047
+|Green
+|[[Lorider]]
+|''Stitch!''
+|-
+| colspan="4" |A blue platypus-like experiment with an accordion body. Designed to pull down individuals' pants, therefore causing public humiliation.
+|-class="vevent" style="text-align:center;"
+|048
+|
+|Echo
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|049
+|White
+|Picker
+|''Stitch! The Movie''
+|-
+| colspan="4" |This experiment was seen in pod form in ''[[Stitch! The Movie]]''. His pod says 49 instead of 049, possibly due to the angle. Function unknown.
+|-class="vevent" style="text-align:center;"
+|050
+|
+|Dunk
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|051
+|Green
+|[[Hocker]]
+|220, ''Leroy & Stitch''
+|-
+| colspan="4" |A green experiment with a huge blue nose and a yellow spot around his eyes and a yellow stripe on his ears and tail (in his episode, the spots and stripes were originally red). Designed to spit acidic saliva that can burn through wood in about three seconds. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|052
+|
+|Coco
+|''Disney Adventures Magazine''
+|-
+| colspan="4" |A chocolate-colored pink-haired lizard/Stitch-like experiment. Designed to turn things into chocolate (from a ''[[Disney Adventures]]'' magazine). He was given to Lilo by Stitch for her birthday.
+|-class="vevent" style="text-align:center;"
+|053
+|
+|Whine
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|054
+|Blue or Red
+|[[Fudgy]]
+|119, 226
+|-
+| colspan="4" |An experiment made of chocolate that looks like a blob. Designed to drown individuals in his sticky sweetness. When he was activated, he was called 119, and he was mistaken for experiment 611. The mistake with his number was due to Jumba's untidy database, although Jumba later corrected this mistake. Was rescued in "Snafu."
+|-class="vevent" style="text-align:center;"
+|055
+|
+|Snarfhonk
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|056
+|
+|Nibbiolo
+|''Leroy and Stitch"''
+|-class="vevent" style="text-align:center;"
+|057
+|
+|Tenderizer
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|058
+|
+|Shortsheet
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|059
+|
+|Tornette
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|060
+|
+|Plink
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|061
+|
+|Anachronator
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|062
+|White
+|[[Frenchfry]]
+|202, ''Leroy & Stitch''
+|-
+| colspan="4" |A small gray and white mustachioed experiment with four arms with three fingers on each hand, black eyes, a round nose, a little mouth, short ears, a chef's hat, and a spatula for a tail. Designed to use his lightning speed, which allows him to instantly prepare food or whip up a mini-tornado in battle. He is also the only experiment in the series that speaks French. Designed to be Jumba's personal chef, but instead made unhealthy food that quickly made individuals fat and overweight, then ate the fattened victims. However, he stopped when he learned that healthy food could be just as delicious. His one true place is running a healthy French fry hut.
+|-class="vevent" style="text-align:center;"
+|063
+|
+|Pufferizer
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|064
+|
+|Nappifier
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|065
+|
+|Britfood
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|066
+|
+|Glam
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|067
+|
+|Shady
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|068
+|
+|Tom
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|069
+|
+|H. T.
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|070
+|White
+|Flopjack
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. Pod says 70 instead of 070. Function unknown.
+|-class="vevent" style="text-align:center;"
+|071
+|
+|Penny
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|072
+|
+|Stickystuck
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|073
+|
+|Cornerpiece
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|074
+|
+|[[Welko]]
+|''Stitch!''
+|-
+| colspan="4" |A pink balloon dog-like experiment with dark blue humanoid eyes, big lips and a heart-shaped tail. Welko can blow indestructible bubbles that last only temporarily. Her bubbles can somewhat stick together, and therefore can be formed into a cloud. Her body contains a form of helium or another light air, and this causes her to float.
+|-class="vevent" style="text-align:center;"
+|075
+|
+|WooWoo
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|076
+|
+|Bath Matt
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|077
+|
+|[[Zawp]]
+|220, ''Leroy & Stitch''
+|-
+| colspan="4" |A fat purple Nosy (199)-like experiment with black nails, a dark blue stripe around his torso between his chest and stomach, a dark blue circle on the top of his head, dark blue-striped ears, a larger belly and a slightly smaller, gold nose. Designed to irritate individuals with his constant snoring. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|078
+|
+|Snozzle
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|079
+|
+|Fogger
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|080
+|
+|Dan
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|081
+|
+|Backscratcher
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|082
+|White
+|Plunge
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. Pod says 82 instead of 082. Function unknown.
+|-class="vevent" style="text-align:center;"
+|083
+|
+|Grimple
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|084
+|
+|Subwoof
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|085
+|
+|Screwup
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|086
+|
+|[[Clink]]
+|206
+|-
+| colspan="4" |A big green mouth-less crab-like experiment with four legs, two large claws and a window on its chest. Able to capture and confine any other experiment inside the holding tank in his stomach by splitting in half, surrounding whatever he wants to catch, and joining together again. When Clink splits in two, he works with himself, yet he seems to have a separate mind for each half. 20 years in an alternate future, Lilo, Stitch, and Skip encountered Clink in the possession of Hämsterviel, who ruled Earth and the rest of the universe.
+|-class="vevent" style="text-align:center;"
+|087
+|Green
+|Puddles
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|088
+|
+|Decrisper
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|089
+|
+|[[Skip]]
+|206, ''Leroy & Stitch''
+|-
+| colspan="4" |A pudgy, purple hourglass-shaped experiment with small ears, a big round nose, and a stubby tail. Designed to skip time by 10 minutes, because Jumba was too impatient to wait for his microwave to reheat his leftovers. However, there was an error in his program, so he skips time by ten years instead of ten minutes. Fortunately, he has a reset button on top of his head (seen as a light green patch); when activated, Skip turns upside-down and reverses the time back to normal. Lilo used him to jump ahead 10 years and become a teenager, then 20 years later to become a full-fledged adult. However, since Lilo and Stitch were gone for 20 years, no one was there to catch experiments except Gantu. So 20 years later, Hämsterviel ruled Earth.
+|-class="vevent" style="text-align:center;"
+|090
+|
+|Fetchit
+|220
+|-
+| colspan="4" |This experiment was activated when Mrs. Hasagawa's cats were.
+|-class="vevent" style="text-align:center;"
+|091
+|
+|Nutsy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|092
+|
+|Gutman
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|093
+|
+|Unkind
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|094
+|
+|Louis B.
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|095
+|
+|Coaster
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|096
+|
+|Cable Dude
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|097
+|
+|Dogalarm
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|098
+|
+|Cooper
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|099
+|
+|Spot
+|''Leroy & Stitch''
+|-
+| colspan="4" |Was supposed to appear in "Spike" but was removed; was mentioned by executive producer Jess Winfield in his lost TV Tome/TV.com forum thread as a "spotlight" experiment.
+|}
+
+===1-Series: Civic disturbances===
+<!-- Please do not add speculative descriptions of the experiments based upon their name. This is not fact. If you have verifiable information on what the experiment does, then add it and state your source. -->
+{| class="wikitable mw-collapsible mw-collapsed" width="100%"
+! scope="col" colspan="4" |Click "expand" for full list
+|-
+!'''Number'''
+!'''Pod Color'''
+!'''Nickname'''
+!'''Episode/Film'''
+|-class="vevent" style="text-align:center;"
+|100
+|
+|Trickster
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|101
+|
+|Trike
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|102
+|
+|[[Stopgo]]
+|137, ''Leroy & Stitch''
+|-
+| colspan="4" |A yellow experiment with a long, narrow neck like a traffic pole, and a traffic light-shaped head with a green and red light (most likely his eyes, oriented vertically) on each side of his head. Designed to cause traffic jams. He was seen in pod form in "Drowsy" and seen activated in ''Leroy & Stitch''. When he first appeared, he was called 239 due to Jumba's untidy database, but this mistake was corrected. His one true place is as a traffic light.
+|-class="vevent" style="text-align:center;"
+|103
+|
+|[[Stamen]]
+|226, ''Leroy & Stitch''
+|-
+| colspan="4" |A tan-gray, upside-down ice cream-shaped, mouse-like experiment with an oval body, little arms and legs, big ears, a big mouth, no tail, black eyes, a round blue nose and rabbit-like ears. Designed to prevent pollination of flowers by attracting alien "bees" to himself. He was first seen being rescued in "Snafu".
+|-class="vevent" style="text-align:center;"
+|104
+|
+|Lapse
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|105
+|
+|Fold
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|106
+|
+|Spindle
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|107
+|Yellow/Purple
+|Mutilate
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. In one scene its pod was yellow, but in another it was purple. Function unknown.
+|-class="vevent" style="text-align:center;"
+|108
+|
+|Nudge
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|109
+|
+|Sounder
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|110
+|Red
+|[[Squeak]]
+|201, ''Leroy & Stitch''
+|-
+| colspan="4" |A small red mouse-like experiment, vaguely resembling animator Friz Freleng's character Little Blabbermouse from the Warner Brothers ''Merrie Melodies'' series. Designed to annoy entire planets with his never-ending talking. He first appeared in "Spike", when Jumba was testing his "Evilliminator", a new idea for turning experiments from bad to good, on him and it did not work. He later appeared in ''Leroy & Stitch'' when he recalled to Mertle about a nightmare he once had, but was immediately stopped when Leroy fired a blaster close to him. He is voiced by Rob Paulsen.
+|-class="vevent" style="text-align:center;"
+|111
+|Blue
+|[[Mulch]]
+|220, ''Leroy & Stitch''
+|-
+| colspan="4" |A red experiment that resembles a push-mower. Designed to tear up the ground beneath his feet. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|112
+|Green
+|[[Toons]]
+|''Stitch!''
+|-
+| colspan="4" |A yellow platypus-like experiment with an orange mane and a rectangular vacuum-like mouth. Designed to turn everyone into cartoons. When modified, he can turn into the subject of any pictures. When reprogrammed he can scan 2-dimensional objects in pictures and make them real. Once a book, picture, or drawing is inserted into his mouth, 112 either morphs into or projects the image into 3-dimensional life. Spinning 112's collar counterclockwise reverts his creations back to their original state.
+|-class="vevent" style="text-align:center;"
+|113
+|Purple
+|[[Shoe]]
+|203, ''Leroy & Stitch''
+|-
+| colspan="4" |A green and white sloth-like experiment with a wiry body and a round face with black eyes, a small dark purple round nose, a wide mouth and two long, curved horns. Able to control luck. When his horns are up, they cause good luck. When down, they cause bad luck. He can be switched from bad luck to good luck by flipping his horseshoe. His one true place is at a miniature golf course, where he makes people score holes-in-one.
+|-class="vevent" style="text-align:center;"
+|114
+|
+|Skyooz
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|115
+|
+|Sellby
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|116
+|
+|Switch
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|117
+|
+|Tock
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|118
+|
+|Fink
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|119
+|Blue
+|Inverto
+|119, ''Leroy & Stitch''
+|-
+| colspan="4" |Experiment 054 (Fudgy), an experiment who drowns individuals into his sticky, chocolaty sweetness; was mistakenly labeled 119 and misunderstood as Experiment 611 because his pod was inverted. An ironic coincidence given Experiment 119's code name.
+|-class="vevent" style="text-align:center;"
+|120
+|Purple
+|[[Snafu]]
+|226
+|-
+| colspan="4" |A small, dark green-teal cephalopod-like experiment with a roughly reptilian face with wide mouth, small white eyes with black pupils, a small round body, little arms and legs with small hands and feet, little tail, black markings on his back, and six tentacles on his large dome head; three on each end of his head. Designed to foil enemy plans by any possible means. He will ruin any plans to catch him. The only way to catch him is by accident. Named for the acronym SNAFU.
+|-class="vevent" style="text-align:center;"
+|121
+|
+|Sappy
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|122
+|Blue
+|[[Dorkifier]]
+|''Stitch!''
+|-
+| colspan="4" |A pink calf-like experiment with two horns. Designed to cause individuals to look ridiculous in order to humiliate them and compromise their self-respect. Though 122 is not actually evil, he is the only one who can reverse the process. When his horns are pointed upwards, his ray causes humiliating appearances. Turning his horns downwards reverses the process.
+|-class="vevent" style="text-align:center;"
+|123
+|Red
+|[[Carmen]]
+|''Leroy & Stitch''
+|-
+| colspan="4" | A pink, blue-eyed, antenna-less, Angel (624)-like experiment, wearing a headdress of fruits and holding a maraca in each of her four hands. Designed to make victims dance until they drop, after her namesake Carmen Miranda.
+|-class="vevent" style="text-align:center;"
+|124
+|
+|Rhymer
+|''Leroy & Stitch''
+|-
+| colspan="4" |Hammerface was mistakenly labeled 124 in ''Stitch! The Movie'' due to Jumba's untidy database. Function unknown.
+|-class="vevent" style="text-align:center;"
+|125
+|
+|Gibberish
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|126
+|
+|Stank
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|127
+|
+|Dembums
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|128
+|Purple
+|[[Bugby]]
+|223
+|-
+| colspan="4" |A small green mosquito-like experiment with four eyes. Designed to turn whole civilizations into harmless little insects. Anyone turned into an insect can understand all other insects and arachnids. The only way to reverse the effect is a machine built by Jumba. 128 was later reprogrammed to only turn inanimate objects into insects. His one true place is helping farmers by turning rocks into swarms of aphid-eating ladybugs.
+|-class="vevent" style="text-align:center;"
+|129
+|
+|Crutch
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|130
+|
+|Bonez
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|131
+|
+|Poik
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|132
+|Purple
+|Spoony
+|''Lilo & Stitch 2: Stitch Has a Glitch''
+|-
+| colspan="4" |Seen in pod form in the "Experiment Profiler" special feature on the DVD of ''[[Lilo & Stitch 2: Stitch Has a Glitch]]''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|133
+|White
+|[[PJ (Lilo & Stitch)|PJ]]
+|209
+|-
+| colspan="4" |An orange and tan koala-like experiment with a white face, a wide mouth, red nose, black eyes, yellow-tipped antennae that mix with thin rabbit-like ears, and a functioning blow-horn for a tail (reminiscent of Harpo Marx's trademark horn) which he squeaks instead of speaking. He wears joke eyeglasses with a fake nose and mustache resembling those of Groucho Marx. Designed to play practical jokes on individuals, hence his name P(ractical) J(oker). His one true place is as an opening act for Moses's Hula gig. In the group photo taken at the end of ''Leroy & Stitch'' and ''Lilo and Stitch'' experiment gallery on Disney.com, PJ is not wearing his glasses. It is possible that the glasses were broken during battle.
+|-class="vevent" style="text-align:center;"
+|134
+|
+|[[Shredder]]
+|220
+|-
+| colspan="4" |A green experiment with sharp steel teeth, large ears and a blue nose. Designed to shred important documents. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|135
+|
+|Remote
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|136
+|
+|Gloomy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|137
+|
+|Flip
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|138
+|
+|Dropsy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|139
+|
+|I Know You Are But What Am I
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|140
+|
+|Changeling
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|141
+|
+|Burr
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|142
+|
+|Blondie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|143
+|
+|Clog
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|144
+|
+|Samolean
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|145
+|Green
+|[[Bragg]]
+|''Stitch!''
+|-
+| colspan="4" |Originally an ugly, green ogre-like experiment designed to annoy individuals by telling tall tales. [[Jumba Jookiba|Jumba]] re-purposed some of Experiment 021's DNA when creating him, granting him musical ability. In ''[[Stitch!]]'', [[Dr. Hämsterviel|Hämsterviel]] alters his appearance, turning him yellow and more rabbit/cat-like with blue fluff in his ears. Hämsterviel also transmuted Bragg to gain power from sympathy as he tells sad stories and acts generally cute. Bragg is very manipulative and sly. Bragg was designed to be an excellent liar, has super intelligence, extraordinary athletic ability, advanced language programming and musical talent, specifically that of the flute and harmonica, helping him gain the approval of others. He uses popularity and sympathy as steroids, getting stronger as he receives more and more attention. This allows him to grow multiple arms and gain physical muscle mass.
+
+'''Note:''' Bragg was mistakenly called 021 in the Japanese episode and other media, but still referred to by name as Bragg in the Japanese episode. [https://translate.google.com/#view=home&op=translate&sl=ja&tl=en&text=%E8%A9%A6%E4%BD%9C%E5%93%81021%E5%8F%B7%E3%83%96%E3%83%A9%E3%83%83%E3%82%B0 Translating] the Kanji in the episode (試作品021号ブラッグ) reads: "Prototype 021 Bragg". In the English dub he is given the name Flute by Yuna and referred to by his correct number. The Japanese language episode specifies that Jumba re-purposed some of 021's DNA when he created 145, which may have added onto the confusion.
+|-class="vevent" style="text-align:center;"
+|146
+|Blue
+|Flashbomb
+|''Lilo & Stitch 2: Stitch Has a Glitch''
+|-
+| colspan="4" |Seen in pod form in the "Experiment Profiler" special feature on the DVD of ''[[Lilo & Stitch 2: Stitch Has a Glitch]]''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|147
+|
+|Newton
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|148
+|
+|Weasel
+|''Leroy & Stitch''
+|-
+| colspan="4" |A brown weasel-like experiment. Designed to climb up planetary leaders' pant legs during public appearances.
+|-class="vevent" style="text-align:center;"
+|149
+|Purple
+|[[Bonnie (Lilo & Stitch)|Bonnie]]
+|135, ''Leroy & Stitch''
+|-
+| colspan="4" | A light-green koala-like experiment smaller than Stitch with a yellow stomach, a slim body, small antennae, big dark blue eyes, a big head, a wide mouth with two fangs sticking out, a round nose, rabbit-like ears, two dark green marks on the back of her head, dark green, arrow-like patches on her arms and legs, and a yellow V-shaped stripe on her forehead, found with 150. Named after bank robber Bonnie Parker. Designed to steal things without the victim's knowledge. Her special weapons are a pistol and a plasma gun. 149 and 150 are captured and end up in prison as convicts, but they are paroled as part of the rescue party in "Snafu." She is voiced by Tress MacNeille.
+
+'''Note:''' Bonnie is called 349 in the episode, but on the Disney website, she is officially 149.
+|-class="vevent" style="text-align:center;"
+|150
+|Purple
+|[[Clyde (Lilo & Stitch)|Clyde]]
+|135, ''Leroy & Stitch''
+|-
+| colspan="4" |A light brown bear-like experiment with a bulky, roundly built body, a round face with a wide mouth, a small black nose, little pointed ears, little stubby antennae, black eyes, and a lantern chin, with a sort of Swiss army knife-like gun for a right hand on a cybernetic arm from the elbow down, found with 149. Named after bank robber Clyde Barrow. Designed to steal things without the victim's knowledge. 149 and 150 are captured and end up in prison as convicts, but they are paroled as part of the rescue party in "Snafu". Seen in pod form in ''Stitch! The Movie''. He is voiced by Rocky McMurray.
+
+'''Note:''' Clyde is called 350 in the episode, but on the Disney website, he is officially 150.
+|-class="vevent" style="text-align:center;"
+|151
+|White
+|[[Babyfier]]
+|136
+|-
+| colspan="4" |A small pink koala-like experiment with a big head, purple insect-like wings, a yellow pacifier in his mouth and a baby rattle-shaped tail. Designed to disable planets by turning adults into babies with a pink powder shaken from his tail. The antidote is a mix of two teaspoons of apple-sauce, one cup of milk, three bananas, and 100% Kona coffee. His one true place is at the dog pound making older dogs young again, thus making them more appealing to potential adopters.
+|-class="vevent" style="text-align:center;"
+|152
+|
+|Mama Frita
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|153
+|
+|XYZ
+|''Leroy & Stitch''
+|-
+| colspan="4" |Mentioned by Pleakley in the English dub of the ''Stitch!'' episode "A Recurring Nightmare" to be "the pants zipper opener".
+|-class="vevent" style="text-align:center;"
+|154
+|
+|Frapp
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|155
+|
+|Burger
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|156
+|
+|Shopahol
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|157
+|
+|Hotl
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|158
+|
+|[[Finder]]
+|130
+|-
+| colspan="4" |A red aardvark/shrew-like experiment with little arms and legs, no tail, a long snout, black eyes, and large rabbit-like ears. Designed to find anything and honk when he finds it, even spinning his ears like helicopter blades if necessary in order to find what he has been asked to locate. His one true place is operating a "Lost and Found" service on the beach. He was in the rescue party for "Snafu."
+
+'''Note:''' Finder is called 458 in his episode, but on the Disney website and in Skip's episode, he is called 158.
+|-class="vevent" style="text-align:center;"
+|159
+|
+|Nacho
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|160
+|
+|Rabbit
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|161
+|
+|Grumbelly
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|162
+|
+|Tub
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|163
+|
+|Dumbell
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|164
+|
+|Lesdyxia
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|165
+|
+|Sandy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|166
+|
+|Peppah
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|167
+|
+|Frizzy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|168
+|
+|Redped
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|169
+|
+|Rolo
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|170
+|
+|Daze
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|171
+|
+|Rich
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|172
+|
+|Ditch
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|173
+|
+|Mitch
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|174
+|
+|Nopost
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|175
+|
+|Kite
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|176
+|
+|Allsox
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|177
+|White
+|[[Clip]]
+|112, ''Leroy & Stitch''
+|-
+| colspan="4" |A small yellow hairball-like experiment with a pink bow, dark blue eyes, and long scissor-like claws. Designed to eat Uburnium (an efficient, cheap, and abundant fuel used in outer space) in order to create a fuel crisis. However, in Jumba's native language, the word "Uburnium" closely resembles the word for "hair", so she eats hair instead of Uburnium (in fact, Jumba had more before her creation). As 177 eats more hair, she grows larger and larger, to where she can only be tamed by shampoo and hair conditioning products. Her one true place is cutting hair at the beauty salon.
+|-class="vevent" style="text-align:center;"
+|178
+|
+|Barkleigh
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|179
+|
+|Bumper
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|180
+|
+|Boggle
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|181
+|
+|Roberts
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|182
+|
+|Ollie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|183
+|
+|Detour
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|184
+|
+|NPH
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|185
+|
+|Splutter
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|186
+|
+|Laakso
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|187
+|
+|Cal
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|188
+|
+|Forward
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|189
+|
+|Hotcold
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|190
+|
+|Florrie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|191
+|
+|Roxy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|192
+|
+|Breakup
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|193
+|
+|Will
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|194
+|
+|Trax
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|195
+|
+|Whoooa!
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|196
+|
+|Escalater
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|197
+|
+|Pretzel
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|198
+|
+|Carat
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|199
+|Red
+|[[Nosy]]
+|128, 224, ''Leroy & Stitch''
+|-
+| colspan="4" |A red pig-like experiment with a pink stomach from the chin down, a roundly built body with thick legs, huge arms with three small fingers on each hand, a wide mouth, a very big nose, little black eyes, little rabbit-like ears, black markings on his back and black stripes on the front of his legs. Designed to snoop out enemy secrets but ends up finding out mostly useless gossip. Also, Jumba programmed 199 to be an expert escape artist. He was later caught by Gantu, who thought that 199 would tell him all of Lilo and Stitch's files. Instead, he only talked about useless information and revealed secrets about Gantu to 625. Woops (600) "accidentally" broke Nosy's capsule on Gantu's ship, freeing him. He is voiced by Bobcat Goldthwait.
+|}
+
+===2-Series: Technological and scientific===
+<!-- Please do not add speculative descriptions of the experiments based upon their name. This is not fact. If you have verifiable information on what the experiment does, then add it and state your source. -->
+{| class="wikitable mw-collapsible mw-collapsed" width="100%"
+! scope="col" colspan="4" |Click "expand" for full list
+|-
+!'''Number'''
+!'''Pod Color'''
+!'''Nickname'''
+!'''Episode/Film'''
+|-class="vevent" style="text-align:center;"
+|200
+|
+|Adam
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|201
+|White
+|Geigenstein
+|220
+|-
+| colspan="4" |This experiment was one of the pods in Mrs. Hasagawa's dish.
+|-class="vevent" style="text-align:center;"
+|202
+|Red
+|[[Jam]]
+|''Stitch! The Movie''
+|-
+| colspan="4" |A purple bat/lizard-like experiment with four arms, a lion-like tail, large wings on his shoulders and a Stitch-like face. Designed to jam radars with his high-pitched screech. Activated at the end of ''[[Stitch! The Movie]]'', although his pod was mislabeled as 455.
+|-class="vevent" style="text-align:center;"
+|203
+|Green
+|Snipe
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|204
+|Blue
+|[[Nosox]]
+|
+|-
+| colspan="4" |A gray experiment shaped like a four-legged washing machine designed to make socks disappear. 204 was among the 12 new pods Lilo and Stitch brought home. Nosox was one of the experiments rescued in "Snafu", because Gantu caught him around "Amnesio".
+|-class="vevent" style="text-align:center;"
+|205
+|
+|Cheney
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|206
+|
+|Maggie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|207
+|
+|Barcode
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|208
+|
+|Hoax
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|209
+|
+|Smoot
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|210
+|Blue
+|[[Retro]]
+|214, 224, ''Leroy & Stitch''
+|-
+| colspan="4" |A small orange dinosaur-like experiment with a purple nose, tiny gold-tipped ears, gold markings on his back and spots around his eyes and a thick, short tail and legs. Designed to turn enemy weapons and technology into their most primitive state by wrapping his tongue around the object, rendering the object useless as he lets go. This process also works on individuals and other items, and it can be reversed by spanking 210 three times while his tongue is wrapped around the de-evolved person or thing. His one true place is making a prehistoric zoo.
+|-class="vevent" style="text-align:center;"
+|211
+|
+|Jangle
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|212
+|
+|2-Late
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|213
+|
+|UHF
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|214
+|
+|[[Pix]]
+|220
+|-
+| colspan="4" |A blue camera-like experiment with arms with three legs similar to a tripod. Designed to take only bad pictures of individuals. He takes the pictures with his "nose" and develops the pictures like a Polaroid camera with the pictures coming out of his mouth. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|215
+|
+|Crammer
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|216
+|
+|Key
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|217
+|
+|Rat
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|218
+|
+|Target
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|219
+|
+|Missy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|220
+|
+|Millie
+|''Leroy & Stitch''
+|-
+| colspan="4" |A giant green millipede-like experiment with a koala-like face, a wide mouth, a big blue nose, black eyes, Nosy-like ears and ten short tentacle limbs. Designed to plug the holes in air filters crucial to all H-drives with its multiple legs.
+|-class="vevent" style="text-align:center;"
+|221
+|Green
+|[[Sparky (Lilo & Stitch)|Sparky]]
+|''Stitch! The Movie'', ''Leroy & Stitch''
+|-
+| colspan="4" |A small light yellow koala/sloth/gecko/Chinese dragon-like creature with skinny arms, legs, and body, a slightly twisted yet pointed tail, a large head with a wide mouth, a round nose, dark blue eyes and long antennae that can create crippling electric surges. His body can turn into an electrical current, so he can also fly or travel through outlets, power lines, and machines. He was the first experiment that Lilo and Stitch met and rehabilitated, first appearing in ''[[Stitch! The Movie]]''. His one true place is powering the old [[Kilauea Lighthouse|lighthouse]] that had been abandoned for requiring too much electricity, though he offers Stitch aid. He is voiced by Frank Welker in the series. Sparky also appears as a boss in the PSP game ''[[Kingdom Hearts: Birth by Sleep]]'', fighting [[Terra]] within Gantu's ship.
+|-class="vevent" style="text-align:center;"
+|222
+|Green
+|[[Poxy]]
+|101, 226
+|-
+| colspan="4" |A tiny pale green-grey single-celled experiment with pink-purple spots and four white grey-tipped antennae. Designed to transmit disease to popular planetary leaders and disable them. The symptoms are purple pimples, smelly feet, a swollen eye, and uncontrollable burping. When he turns to good, he is able to cure health problems. Ends up with (actually ''in'') Gantu, until he was rescued in "Snafu" and later uses his powers to cure people according to a game in the DVD for ''Lilo & Stitch 2: Stitch Has a Glitch''. He is voiced by Frank Welker.
+|-class="vevent" style="text-align:center;"
+|223
+|Green
+|[[Glitch]]
+|224
+|-
+| colspan="4" |A bright green experiment with a round torso, pudgy arms and legs, a large round head with a little mouth, round nose, dark green eyes, a small arrow-shaped mark above his face (in his episode, his marking was originally V-shaped) and two thin antennae that resembles a cross between Morpholomew (316) and Poxy (222). Designed to turn technology against its user by entering machines and making them malfunction, operating like a computer virus. Lilo tricked him into being downloaded into her video game. He was released as of ''Leroy & Stitch'' to help fight the Leroy clones. His one true place is Lilo's video game, rendering the games harder.
+|-class="vevent" style="text-align:center;"
+|224
+|
+|Tweak
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|225
+|Red
+|Mashy
+|''Leroy & Stitch'', ''Stitch!''
+|-
+| colspan="4" |A light blue dinosaur-like experiment, with a huge mouth, with tiny horns above each nostril, two large ears, and a large body. Designed to crush orbs of nearly indestructible Uburnium to useless pulp. Clip (177) was originally made to eat Uburnium, but due to an error on Jumba's part, 177 ended up eating hair.
+|-class="vevent" style="text-align:center;"
+|226
+|
+|Combo
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|227
+|
+|Butter
+|''Leroy & Stitch''
+|-
+| colspan="4" |A large tan mammoth-like creature with two tiny little antennae, a big round green nose instead of trunk, green markings on his back, legs at the middle of his torso with external toes, a big hump near his face, and tusks as large as the entire front of his body. Able to batter through even the thickest doors.
+|-class="vevent" style="text-align:center;"
+|228
+|Green
+|[[Melty]]
+|134
+|-
+| colspan="4" |A small red dragon-like experiment with small bat-like wings, a reptilian head with thin pointed ears, black eyes and a thin body. Designed to melt enemy fortresses, weapons, and transportation, among other things, with the bright blue blasts from his mouth. His one true place is burning metal at the recycling plant. He is voiced by Tress MacNeille.
+|-class="vevent" style="text-align:center;"
+|229
+|
+| Kingpin
+|''Leroy & Stitch''
+|-
+| colspan="4" |An unlucky experiment that looks like a yellow bowling pin with rabbit ears. Designed as a target for military war games.
+|-class="vevent" style="text-align:center;"
+|230
+|
+|Checkup
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|231
+|
+|Sprok
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|232
+|Green
+|Poser
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|233
+|
+|Pitch
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|234
+|Green
+|[[Shush]]
+|222
+|-
+| colspan="4" |A reddish-pink weasel/mouse-like experiment with large ears and a speaker at the end of his tail. Designed to eavesdrop on private enemy conversations. To stop him from eavesdropping, someone has to pat him on the head. His one true place is with [[Cobra Bubbles]] as a CIA operative.
+|-class="vevent" style="text-align:center;"
+|235
+|White
+|Docker
+|220
+|-
+| colspan="4" |This experiment was one of the pods in Mrs. Hasagawa's dish.
+|-class="vevent" style="text-align:center;"
+|236
+|
+|Charger
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|237
+|
+|Blip
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|238
+|
+|Bworp
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|239
+|
+|Clickster
+|''Leroy & Stitch''
+|-
+| colspan="4" |This experiment is mentioned in "Drowsy" when Pleakley said, "experiment 239 designed to cause traffic jams". However, he does not cause traffic jams; he was mistaken for Stopgo, experiment 102. Its actual function is unknown.
+|-class="vevent" style="text-align:center;"
+|240
+|
+|Sap
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|241
+|
+|Press-5
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|242
+|
+|Brownout
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|243
+|
+|Pane
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|244
+|
+|Bore
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|245
+|
+|Sournote
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|246
+|
+|Creamer
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|247
+|
+| Qwerty
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|248
+|
+|[[Belle (Lilo & Stitch)|Belle]]
+|216
+|-
+| colspan="4" |A small blue experiment with a pitchfork-shaped head with an upside-down arrow-shaped mark on her forehead, a small body, thin arms and a small lion-like tail and that looks like a cross between Holio and Heat. Designed to scare individuals with a loud high-pitched shriek. Her one true place is Nani's alarm clock. She is voiced by Grey DeLisle.
+|-class="vevent" style="text-align:center;"
+|249
+|
+|[[Sproing]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A dark blue and white roughly koala-like experiment with a spring-like body, a wide mouth, round nose, dark eyes, two little ears and little antennae. Designed to launch boulders. Her one true place is helping people reach high places.
+|-class="vevent" style="text-align:center;"
+|250
+|
+|Lacrosse
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|251
+|Green
+|[[Link]]
+|212
+|-
+| colspan="4" |A small, yellow, vaguely rabbit-like experiment with red eyes and long antennae that shoot a sticky substance that will only dissolve in mud. Designed to bind together incompatible individuals, usually by the hand or wrist. His one true place is helping arguing couples bungee jump.
+|-class="vevent" style="text-align:center;"
+|252
+|
+|Crete
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|253
+|
+| Uncrete
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|254
+|White
+|[[Mr. Stenchy]]
+|107
+|-
+| colspan="4" |An irresistibly cute pink experiment with a big head with big blue eyes, puffy antennae and a small hair and a small body. Designed to be so irresistibly cute that he can infiltrate any target area. Other experiments are immune to his charms. Once at his target location, he is a ticking stink bomb. Forty-two hours after his activation, he begins to emit an odor so noxious it will make a 40-square mile area uninhabitable for decades. Luckily, he eventually stops emitting the vile fumes. If 254's sour emissions intermix with 255's nauseatingly sweet emissions, the chemical reaction will cause a cataclysmic explosion destroying the planetary body they inhabit. 
+
+Somehow he ended up back on Earth in ''Leroy & Stitch'', stench-free, suggesting he can either control the smell or it wears off after a while. He is voiced by Frank Welker.
+|-class="vevent" style="text-align:center;"
+|255
+|Blue
+|[[Mrs. Sickly]]
+|''Stitch!''
+|-
+| colspan="4" |A light blue experiment with a strong resemblance to Mr. Stenchy (254), with golden eyes, puffier antennae and smaller hair. Designed to make individuals sick with her nauseatingly sweet fumes. If 255's emissions intermix with 254's sour emissions, the chemical reaction will cause a cataclysmic explosion capable of destroying the planetary body they inhabit.
+|-class="vevent" style="text-align:center;"
+|256
+|
+|Addy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|257
+|Red
+|Rattat
+|''Lilo & Stitch 2: Stitch Has a Glitch''
+|-
+| colspan="4" |Seen in pod form in the "Experiment Profiler" special feature on the DVD of ''[[Lilo & Stitch 2: Stitch Has a Glitch]]''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|258
+|White or Blue
+|[[Sample]]
+|138, 226
+|-
+| colspan="4" |A bright orange koala/cat-like experiment with a wide mouth, a big round nose which functions as a microphone, black pupil-less eyes, and big round ears resembling speakers. Designed to annoy enemies by looping random sounds with his mouth or his ears and can also climb walls. His one true place is providing backbeats for an originally rhythm-less musical group. Was in the rescue mission for "Snafu."
+|-class="vevent" style="text-align:center;"
+|259
+|
+|Rash
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|260
+|
+|GPS
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|261
+|
+|B. V. Beaverton
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|262
+|Green
+|[[Ace]]
+|220
+|-
+| colspan="4" |A bright red, roughly koala/dragon/superhero-like experiment with a muscular body, yellow chest and stomach, a manly face, white front paws that resemble gloves, a wide mouth, a blue nose, dark eyes, pointed ears and small antennae as well as four arms, super strength, warm ice-melting breath, and dazzling teeth. 262 has one fatal error: he has no evil function; a failed experiment that is pure good, and to top it off, he is the only experiment programmed not to cause trouble. When Jumba had his membership revoked from E.G.O. (Evil Genius Organization), Lilo and Stitch tried to trick the head of E.G.O. into thinking that Jumba was still evil. The plan worked until the head of E.G.O. saw a screen of Ace rescuing a cat from a house on fire. His one true place is balancing out Jumba's evil and acting as a local do-gooder. His experiment number – 262 – is the inverse of 626 – Stitch's number; Ace is a purely heroic experiment, and Stitch had been designed to be purely destructive, thus the opposite of 262. He is voiced by Jeff Bennett.
+|-class="vevent" style="text-align:center;"
+|263
+|
+|SFS
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|264
+|
+|Poach
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|265
+|
+|Wip
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|266
+|
+|10x
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|267
+|Green
+|[[Wishy-Washy]]
+|221
+|-
+| colspan="4" |A lavender-bluish teddy bear-like experiment with fairy-like wings that enable him to fly. He also has a "wand" on his head that lights up every time a wish is granted, and is also good for throwing an unsuspecting opponent, like Stitch. Designed to be a wish giver that grants any wish he hears, but the wishes are granted literally and may not turn out quite as expected. In addition to rejecting wishes for more wishes, he also has a wish limit, indicated by a small meter on his stomach which starts out completely red. As wishes are granted, the meter slowly goes down. When white, all the wishes are gone, and 267 is deemed useless.
+|-class="vevent" style="text-align:center;"
+|268
+|
+|Celsenheit
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|269
+|
+|Gyrotta
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|270
+|
+|Gillmore
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|271
+|
+|Noso
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|272
+|
+|[[Wormhole]]
+|''Stitch!''
+|-
+| colspan="4" |A purple and cyan caterpillar-like experiment with black eyes, two dark purple-tipped antennae, four dark purple-tipped legs and blue mouth inside. Designed to generate portals to parallel universes. However, 272 has no control over which universe the portal leads to. Not naturally evil in nature, 272 has a skittish and sensitive temperament, but also stubborn and loyal to his creator. 272 has advanced language programing to assist him as he traverses alternate realities. Jumba implanted a tracking device into 272 so that he would be able to locate the experiment in whatever universe his creation travels to. Once a transdimensional portal is created, it only lasts for a short period of time. Luckily, 272 has the ability to locate any portal he creates.
+
+At the end of ''Leroy & Stitch'', 272 is called Mamf and Wormhole is listed as 275, which is Tickle-Tummy's number in ''Stitch!''.
+|-class="vevent" style="text-align:center;"
+|273
+|
+|Boxboom
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|274
+|
+|Alexander
+|137
+|-
+| colspan="4" |An experiment designed to make lots of long distance telephone calls. He makes calls on your phone to run up the cost on your phone bill.<ref name="WinfieldTVTome" /> One of the 12 new pods found by Lilo & Stitch in "Drowsy". His name is obviously taken from Alexander Graham Bell, the inventor of the telephone.
+|-class="vevent" style="text-align:center;"
+|275
+|
+|[[Tickle-Tummy]]
+|226, ''Leroy & Stitch''
+|-
+| colspan="4" |A round, pink experiment with rabbit-like ears, no legs, a clownish face, two hands with long fingers and a large patterned torso, which she uses to jump really high. Designed to be able to tickle anyone into submission. She has long fingers that she uses to immobilize individuals in a state of continuous laughter. This includes Reuben who denied being ticklish. She was caught by Gantu and rescued in "Snafu".
+
+Tickle-Tummy was originally left off the master list at the end of ''Leroy & Stitch''. She is number 275 in the ''Stitch!'' anime.
+|-class="vevent" style="text-align:center;"
+|276
+|Green
+|[[Remmy]]
+|215, ''Leroy & Stitch''
+|-
+| colspan="4" |A blue experiment with a huge head that resembles a Pac-Man ghost. Designed to enter a sleeping person's head and turn dreams into nightmares. If the person wakes up while he is still inside, 276 will remain there permanently to turn all future dreams into nightmares. Also, 276 was designed to attack at peak of the subconscious enjoyment. His one true place is making virtual reality games. His name is a reference to the REM stage of sleep, in which dreams occur. He is voiced by Rob Paulsen.
+|-class="vevent" style="text-align:center;"
+|277
+|Red or White
+|[[Snooty]]
+|213 and 220
+|-
+| colspan="4" |A light purple bat-like experiment with a fur-less, triangle-like body, little legs, two fingers and a thumb on each of his wings, hardly any neck, fanged wide mouth, two little nostrils, pointed ears and black eyes. Designed to find and enrich "Snootonium," a rare element that becomes extremely dangerous once enriched. Snootonium has a similar chemical make-up as that of mucus on Earth. To help clear her sinuses, Lilo's friend Victoria decides to keep Snooty as a pet, as his one true place.
+|-class="vevent" style="text-align:center;"
+|278
+|
+|Pasthole
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|279
+|Yellow
+|Futurehole
+|''Lilo & Stitch 2: Stitch Has a Glitch''
+|-
+| colspan="4" |Seen in pod form in the "Experiment Profiler" special feature on the DVD of ''[[Lilo & Stitch 2: Stitch Has a Glitch]]''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|280
+|
+|Benedict Arnold
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|281
+|
+|Ray
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|282
+|
+|Click
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|283
+|
+|Quarklifter
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|284
+|Yellow
+|Pixel
+|220
+|-
+| colspan="4" |This experiment was one of the pods in Mrs. Hasagawa's dish.
+|-class="vevent" style="text-align:center;"
+|285
+|Green
+|[[Lax]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A purple parrot-like experiment with a small antenna, a beak and tail feathers. Designed to fire a green ray from his antenna that will cause anything it hits to stop working, and can also climb walls. An individual hit with 285's ray will relax, and even a machine hit with the ray will shut down. The ray can be blocked or bounced off reflective surfaces. However, the ray wears off in time. His one true place is at the airport, making grouchy businesspeople enjoy their vacation.
+|-class="vevent" style="text-align:center;"
+|286
+|
+|Gellasifier
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|287
+|
+|Burl
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|288
+|
+|[[Boomer (Lilo & Stitch)|Boomer]]
+|220, ''Leroy & Stitch''
+|-
+| colspan="4" |A small white and brown experiment with a curved head and lightweight body. Designed to be a living boomerang. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|289
+|Red
+|Stringulator
+|''Lilo & Stitch 2: Stitch Has a Glitch''
+|-
+| colspan="4" |Seen in pod form in the "Experiment Profiler" special feature on the DVD of ''[[Lilo & Stitch 2: Stitch Has a Glitch]]''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|290
+|
+|U-port
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|291
+|
+|Catalyst
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|292
+|
+|Whatsamattafoyou
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|293
+|
+|Vacuum
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|294
+|
+|Poppapoppup
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|295
+|
+|Spineless
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|296
+|
+|Crash
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|297
+|Green
+|[[Shortstuff]]
+|133
+|-
+| colspan="4" |A red-orange crab-like experiment with four claws, four legs, dark blue eyes and two antennae on his head, able to swivel at the waist more than 360°. Designed to destroy machinery by going inside and cutting the mechanism and electrical wiring. His size was greatly increased by accident, thanks to Jumba's growth ray. His one true place is as an amusement park ride. He is voiced by Nancy Cartwright.
+|-class="vevent" style="text-align:center;"
+|298
+|
+|Cat
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|299
+|
+|Dimensionaton
+|''Leroy & Stitch''
+|}
+
+===3-Series: Psychological===
+<!-- Please do not add speculative descriptions of the experiments based upon their name. This is not fact. If you have verifiable information on what the experiment does, then add it and state your source. -->
+{| class="wikitable mw-collapsible mw-collapsed" width="100%"
+! scope="col" colspan="4" |Click "expand" for full list
+|-
+!'''Number'''
+!'''Pod Color'''
+!'''Nickname'''
+!'''Episode/Film'''
+|-class="vevent" style="text-align:center;"
+|300
+|Green or Red
+|[[Spooky]]
+|103
+|-
+| colspan="4" |A green blob-like experiment with olive green eyes, a wide mouth and three round, short, stubby spikes on his back, greatly resembling another Halloween-based Disney character, [[Oogie Boogie]]. Designed to scare individuals by morphing/shapeshifting into their worst fears. Appears during Halloween. His one true place is as a greeter for trick-or-treaters during Halloween, and at an old house believed to be haunted during the rest of the year.
+|-class="vevent" style="text-align:center;"
+|301
+|
+|Progno
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|302
+|
+|Noidster
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|303
+|Yellow
+|[[Amnesio]]
+|118, 226
+|-
+| colspan="4" |A small blue beetle-like creature with a round body, two thick arms, two thick legs, a purple mark on his stomach, two large wings on his back, a round face with large black eyes, a little mouth, and two antennae. Designed to erase individuals' memories by zapping a red laser vision in their eyes. The password "''ʻohana''" must be spoken to reverse its effects. (How Jumba knew this word, which is Hawaiian, and why he chose that particular word before he came to Earth are unknown.) 303 was given to Dr. Hämsterviel, who promptly lost his memory. He was rescued in "Snafu." He is voiced by Tress MacNeille.
+|-class="vevent" style="text-align:center;"
+|304
+|
+|Drag
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|305
+|
+|Spunky
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|306
+|
+|Roadrage
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|307
+|
+|Anna Stesia
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|308
+|
+|Jenny
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|309
+|
+|Smiler
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|310
+|Blue
+|Fritzabrain
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|311
+|Yellow
+|Yellowstone
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|312
+|
+|Ben
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|313
+|
+|Thinktank
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|314
+|
+|Jones
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|315
+|Red
+|Chum
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|316
+| Yellow
+|[[Morpholomew]]
+|213, ''Leroy & Stitch''
+|-
+| colspan="4" |A small red blob-like experiment with two arms, two legs, a thin mouth and dark eyes that loves chicken legs (which Jumba calls "over-sized Earth-fowl legs"). Designed to morph organisms into any other organism, after seeing the target organism or a photo of the target organism at least once before. However, someone who has been morphed keeps the same voice and needs 316 to change back. His one true place is at a costume store. [[Jake Long]] was also mistaken for this experiment when he was in his dragon form.
+|-class="vevent" style="text-align:center;"
+|317
+|
+|Hyuckster
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|318
+|
+|Chortle
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|319
+|Yellow or White
+|[[Spike (Lilo & Stitch)|Spike]]
+|201
+|-
+| colspan="4" |A large dark blue porcupine-like experiment, with huge white-tipped spines on his tail, back, front legs and head, a red nose, large black eyes, black claws and a long tail that he can throw like darts. Designed to make 99% of the population silly and useless by pricking them with his spines, leaving only 1% of the population clever (which Jumba used to explain why he never got hurt by one of the quills of Spike). When Lilo discovers Mertle cheating in a contest by getting the answers from Teresa, she uses 319 on Teresa to have her give Mertle completely silly answers. His one true place is hugging and thus taming truant experiments at Pleakley's E.A.R.W.A.X. group, after he is given protective armor to cover his silliness-inducing spines.
+|-class="vevent" style="text-align:center;"
+|320
+|
+|[[Cloudy]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A grey cloud-like experiment. Designed to depress others with constant rain. His one true place is raining on Mrs. Hasagawa's fruit, thus keeping them fresh longer.
+|-class="vevent" style="text-align:center;"
+|321
+|
+|Lightfoot
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|322
+|
+|[[Heckler]]
+|218
+|-
+| colspan="4" |An orange experiment that resembles 625 and 627, with short pointed ears, small beady eyes, large fangs, a shirt and bow-tie imprint on his body. Designed to verbally insult individuals by appearance and personality. His insults can be defused by accepting that they are true. His one true place is sitting over a dunk tank where he provokes people to try and dunk him. He is voiced by Will Sasso.
+|-class="vevent" style="text-align:center;"
+|323
+|
+|[[Hunkahunka]]
+|121, 226
+|-
+| colspan="4" |A pink/purple hummingbird-like experiment. Designed to peck individuals, making them artificially fall in love with the first person they see. The effect is reversed by being sprayed with water. Named after a lyric in the Elvis song "Burning Love", Lilo refers to him as a "Hunkahunka bird of love". 323 was given to Dr. Hämsterviel, who fell in love with Gantu after being pecked. Despite this, Hämsterviel still insulted Gantu like he would on a regular basis. Was rescued in "Snafu".
+|-class="vevent" style="text-align:center;"
+|324
+|
+|Ruinit
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|325
+|
+|Rack
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|326
+|
+|Pannix
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|327
+|
+|Molar
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|328
+|
+|Bugle
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|329
+|
+|Ava
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|330
+|
+|Serum
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|331
+|
+|Shagdog
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|332
+|
+|Cackle
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|333
+|
+|Hairy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|334
+|
+|Miranda
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|335
+|
+|Popquiz
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|336
+|
+|Blooz
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|337
+|White
+|Guilttrip
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|338
+|
+|Crow
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|339
+|
+|Crowsfoot
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|340
+|Green
+|Nodesserto
+|118, ''Stitch!''
+|-
+| colspan="4" |Designed to cause mass depression by stealing puddings, cakes, pies, and other sweets.<ref name="WinfieldTVTome">{{cite web|url=http://lasfansite.atspace.me/stuff/history/tvtome/page04.html|title=L&S Says Mahalo|website={{WikipediaLink|TV.com|TV Tome}}|date=December 14, 2004|archiveurl=https://web.archive.org/web/20160305082355/http://lasfansite.atspace.me/stuff/history/tvtome/page04.html|archivedate=March 19, 2016|accessdate=May 27, 2018}}</ref> His name is often forgotten, and so he is called "Whatsisname" (revealed in the credits of ''Leroy & Stitch''). Caught by Gantu. Was mentioned by Hämsterviel in "Amnesio". Seen in pod form in ''Stitch!''.
+|-class="vevent" style="text-align:center;"
+|341
+|
+|Wafty
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|342
+|
+|Greensleeves
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|343
+|
+|Chaching
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|344
+|
+|[[Dupe]]
+|126
+|-
+| colspan="4" |A small gold monkey/lemur-like experiment with relatively flat ears, a brown-striped tail and brown-striped prehensile appendage protruding from his head. Able to generate clones with the appendage on his head; however, the traits of the cloned object become divided amongst the original and the clones; in other words, each duplicate is not as powerful as the original. He has a reverse function that can send duplicates back into the original. His one true place is making low-fat, low-calorie ice cream cones at Luki's Shave Ice with Experiment 523 (Slushy).
+|-class="vevent" style="text-align:center;"
+|345
+|
+|[[Elastico]]
+|132
+|-
+| colspan="4" |A green, fur-less, ear-less, clownish, roughly monkey-like creature with no tail, a large red round clown nose, white face and stomach, wide mouth, black eyes, neck frill, three huge tendrils on his head that resemble a jester's cap, and a purple spot on his stomach. Designed to distract enemies by performing tricks with his elastic body. He was found already activated and in his one true place: the circus.
+|-class="vevent" style="text-align:center;"
+|346
+|
+|Stuckup
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|347
+|
+|Slobber
+|''Disney Adventures Magazine''
+|-
+| colspan="4" |A [[Unconfirmed Experiments#Comic Zone Volume 1: Disney's Lilo & Stitch|green lizard-like experiment]] that appeared in ''Disney Adventures Magazine''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|348
+|
+|Snappish
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|349
+|Blue
+|Lotuseater
+|''Lilo & Stitch 2: Stitch Has a Glitch''
+|-
+| colspan="4" |Bonnie was called this in her episode, but it was confirmed on the Disney website that Bonnie was 149. Seen in pod form in the "Experiment Profiler" special feature on the DVD of ''[[Lilo & Stitch 2: Stitch Has a Glitch]]''. Function unknown.
+
+|-class="vevent" style="text-align:center;"
+|350
+|
+|Addly
+|125, ''Leroy & Stitch''
+|-
+| colspan="4" |Clyde was called this in his episode but it was confirmed on the Disney website that Clyde was 150.
+|-class="vevent" style="text-align:center;"
+|351
+|
+|Whoover
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|352
+|
+|Yvonne
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|353
+|
+|Blockoutro
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|354
+|
+|Jesstifer
+|''Leroy & Stitch''
+|-
+| colspan="4" |This experiment is named after [[Jess Winfield]]'s user name at TVTome/tv.com.
+|-class="vevent" style="text-align:center;"
+|355
+|
+|[[Swapper]]
+|204
+|-
+| colspan="4" |A two-headed, four-armed green lizard-like experiment. He is able to switch individuals' minds, but can also undo the switch. In his episode, he switches Lilo with Stitch, Jumba with Pleakley, and Hamsterviel with Gantu, and eventually switches all four protagonists' minds back into their original bodies.
+|-class="vevent" style="text-align:center;"
+|356
+|
+|Rippington
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|357
+|
+|Downes
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|358
+|
+|[[Manners]]
+|220
+|-
+| colspan="4" |A black penguin or orca-like experiment that acts like a doorman or butler. Designed to make individuals too polite to fight back against bullies, by sprinkling a special dust from his finger onto them. His one true place is with [[Mrs. Hasagawa]] as one of her "cats." One of the few experiments that can speak English.
+
+|-class="vevent" style="text-align:center;"
+|359
+|
+|Phoebe
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|360
+|Yellow
+|[[Drowsy]]
+|137
+|-
+| colspan="4" |A gray sheep-like experiment with striped ears that can walk on its hind legs. Designed to put individuals to sleep by bleating, although the effect is near permanent. The surest way to reverse 360's effect is with a splash of water. Lilo put Stitch to sleep with 360 in order to release PJ (133), but Stitch managed to wake up on his own. His one true place is putting insomniacs to sleep.
+|-class="vevent" style="text-align:center;"
+|361
+|
+|Aron
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|362
+|
+|Putdown
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|363
+|Blue
+|Crankster
+|137
+|-
+| colspan="4"| One of the 12 new pods found by Lilo & Stitch in "Drowsy".
+|-class="vevent" style="text-align:center;"
+|364
+|
+|'Sgo
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|365
+|
+|Queasy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|366
+|
+|Xanad
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|367
+|
+|Ob
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|368
+|
+|Luddi
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|369
+|
+|Thomas
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|370
+|
+|Blueblood
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|371
+|
+|Simpatico
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|372
+|
+|Eve
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|373
+|
+|Worrywart
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|374
+|
+|Demotifier
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|375
+|Yellow
+|[[Phantasmo]]
+|110
+|-
+| colspan="4" |A green phantom-like experiment with short arms, a large cone-head with two stripes, a squeaky voice, a koala-like face, long rabbit-like ears, and dark pupil-less eyes. Able to possess inanimate objects and bring them to life. Being a ghostlike experiment, he can also travel through weapons and materials typically used to capture experiments, such as nets and bottles which can keep experiments under containment. His one true place is at the Macky Macaw's restaurant, possessing the robotic body of Macky Macaw. He is voiced by Nancy Cartwright.
+|-class="vevent" style="text-align:center;"
+|376
+|
+|Cassandra
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|377
+|
+|Annie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|378
+|
+|Lonelyhearts
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|379
+|
+|Grudge
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|380
+|
+|Judy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|381
+|
+|Neg
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|382
+|
+|1-Imp
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|383
+|Yellow
+|[[Swirly]]
+|129
+|-
+| colspan="4" |A small turquoise koala-like experiment with a large head, an expressionless face with a little mouth, little nose, big black eyes (with white swirling patterns when using powers), rabbit-like ears, a single small antenna on the middle of his head, and a large lizard-like tail. Able to hypnotize anyone into obeying the next command that individual hears. The effect can be undone by snapping one's fingers. His one true place is hypnotizing guests at children's parties, causing the hypnotized victim to act silly to provide harmless entertainment.
+|-class="vevent" style="text-align:center;"
+|384
+|
+|Woesmy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|385
+|
+|Hoobie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|386
+|
+|Hitch
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|387
+|
+|Substein
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|388
+|
+|Megan
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|389
+|
+|Facepainter
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|390
+|Red
+|[[Slimy]]
+|''Stitch! The Movie'', 123, 226
+|-
+| colspan="4" |A large green slug-like experiment with three spines on his back. Designed to leave a slippery snail-like trail to trip up enemies. He first appeared at the end of ''Stitch! The Movie''. 390 was captured by Gantu in "627" and rescued later in "Snafu."
+|-class="vevent" style="text-align:center;"
+|391
+|
+|Barry
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|392
+|
+|Margaret
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|393
+|
+|Missandra
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|394
+|
+|Joe
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|395
+|
+|Polly
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+| 396
+|
+|Connie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|397
+|Yellow
+|[[Spats]]
+|214, ''Leroy & Stitch''
+|-
+| colspan="4" |A small yellow squirrel/cat-like creature with cat-like ears, orange markings on his back, small pointed antennae, orange spots on his forehead, a green tongue, and two prongs on the end of his long bushy tail. Designed to make people fight with each other. The cure for this is to stop and count to ten. His one true place is in the professional wrestling show, in hopes that he can use Spats to make pro wrestlers fight more convincingly. Seen in [[Spats (episode)|the episode of the same name]], a crossover with ''[[The Proud Family]]''.
+|-class="vevent" style="text-align:center;"
+|398
+|
+|Gus the Second
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|399
+|
+|Super-X
+|''Leroy & Stitch''
+|}
+
+===4-Series: Top secret and mysterious series of militaristic and mostly failed experiments===
+<!-- Please do not add speculative descriptions of the experiments based upon their name. This is not fact. If you have verifiable information on what the experiment does, then add it and state your source. -->
+{| class="wikitable mw-collapsible mw-collapsed" width="100%"
+! scope="col" colspan="4" |Click "expand" for full list
+|-
+!'''Number'''
+!'''Pod Color'''
+!'''Nickname'''
+!'''Episode/Film'''
+|-class="vevent" style="text-align:center;"
+|400
+|
+|Precious
+|''Leroy & Stitch''
+|-
+| colspan="4" |Was originally supposed to have its own episode, a parody of ''The Lord of the Rings'', but Disney scrapped it due to copyright issues.
+|-class="vevent" style="text-align:center;"
+|401
+|
+|Chafe
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|402
+|Yellow
+|Chile
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|403
+|
+|Zinger
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|404
+|
+|Bloom
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|405
+|
+|Lucy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|406
+|
+|China
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|407
+|
+|Punk
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|408
+|
+|Berg I
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|409
+|
+|Gumshoe
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|410
+|
+|Jay
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|411
+|Red
+|Cowlick
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|412
+|Green
+|Char
+|212, ''Stitch!''
+|-
+| colspan="4" |An unseen experiment designed to burn bagels. Was mentioned in "Link" when Reuben was searching the experiment database. Seen in pod form in ''Stitch!''.
+|-class="vevent" style="text-align:center;"
+|413
+|
+|Botulator
+|212
+|-
+| colspan="4" |An unseen experiment designed to spoil food. Was mentioned in "Link" when Reuben was searching the experiment database.
+|-class="vevent" style="text-align:center;"
+|414
+|
+|Crusty
+|212
+|-
+| colspan="4" |An unseen experiment with knife-like hands designed to spread mold on bread. Was mentioned in "Link" when Reuben was searching the experiment database.
+|-class="vevent" style="text-align:center;"
+|415
+|
+|Patter
+|212
+|-
+| colspan="4" |An unseen experiment designed to eat a single sock in each pair. Was mentioned in "Link" when Reuben was searching the experiment database.
+|-class="vevent" style="text-align:center;"
+|416
+|
+|Parslifier
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|417
+|
+|Sageonomificator
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|418
+|
+|Rosemary
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|419
+|
+|Vane
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|420
+|
+|Curdle
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|421
+|
+|Bustduster
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|422
+|
+|Doublecross
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|423
+|
+|Filibuster
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|424
+|
+|Decayer
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|425
+|
+|Mr. Brown
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|426
+|
+|Rewind
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|427
+|
+|Toepoke
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|428
+|
+|Gameover
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|429
+|
+|Klamp
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|430
+|
+|Slipknot
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|431
+|
+|Bluerinse
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|432
+|
+|Tonix
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|433
+|
+|Speck
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|434
+|
+|Monochrome
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|435
+|
+|Tony
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|436
+|
+|Steve
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|437
+|
+|Honk
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|438
+|
+|Potter
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|439
+|
+|Winceslaws
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|440
+|
+|Waistrel
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|441
+|
+|Choppers
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|442
+|
+|Moldavia
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|443
+|
+|Taps
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|444
+|
+|Pooperson
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|445
+|
+|No-C
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|446
+|
+|Jacob
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|447
+|
+|Handprint
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|448
+|
+|Diesel
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|449
+|
+|Bellyup
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|450
+|
+|Sapsucker
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|451
+|
+|Pullplug
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|452
+|
+|Bob
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|453
+|
+|Trip
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|454
+|
+|Blockhead
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|455
+|Red
+|[[Mary (Lilo & Stitch)|Mary]]
+|''Stitch! The Movie''
+|-
+| colspan="4" |A big, round peach-colored experiment with two long white-tipped ears, three large white stripes on her back, a white stomach and a red nose. She is designed to be the bouncer for Jumba's lab and hip-check unwanted guests. Activated at the end of ''[[Stitch! The Movie]]''.
+|-class="vevent" style="text-align:center;"
+|456
+|
+|Nub
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|457
+|
+|Hangnail
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|458
+|
+|Greaseprint
+|
+|-
+| colspan="4" |Finder was called this in his episode, but in the credits of ''Leroy & Stitch'', Finder was 158. 
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|459
+|
+|Nobyte
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|460
+|
+|Noise
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|461
+|
+|Pacer
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|462
+|
+|Flat
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|463
+|
+|Keyz
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|464
+|
+|Sharpflat
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|465
+|
+|Skid
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|466
+|
+|Loomiere
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|467
+|
+|Scale
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|468
+|
+|Undewey
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|469
+|
+|Jitters
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|470
+|
+|Octopalmer
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|471
+|
+|Sneak
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|472
+|
+|Little Dorrat
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|473
+|
+|Tripsy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|474
+|
+|Dizzifier
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|475
+|
+|Therman
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|476
+|
+|Haasinator
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|477
+|
+|Buzzcut
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|478
+|
+|Tireslasher
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|479
+|
+|Lotta
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|480
+|
+|Tappity
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|481
+|
+|Twitch
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|482
+|
+|Gesundt
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|483
+|
+|Hiver
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|484
+|
+|Buffie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|485
+|Blue
+|Period
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|486
+|
+|Grindz
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|487
+|Yellow
+|Crunkle
+|''Lilo & Stitch 2: Stitch Has a Glitch''
+|-
+| colspan="4" |Seen in pod form in the "Experiment Profiler" special feature on the DVD of ''[[Lilo & Stitch 2: Stitch Has a Glitch]]''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|488
+|
+|Speirs
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|489
+|Green or Red
+|[[Huggo]]
+|''Stitch! The Movie''
+|-
+| colspan="4" |A large, purple/blue cephalopod-like experiment, but with six tentacles. Designed to squeeze the life out of a person. Activated at the end of ''[[Stitch! The Movie]]''. In one scene his pod was green, and in another it was red.
+|-class="vevent" style="text-align:center;"
+|490
+|
+|Stones
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|491
+|
+|Spikyhands
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|492
+|
+|Milston
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|493
+|
+|Enguard
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|494
+|
+|Mortamer
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|495
+|
+|Joy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|496
+|
+|Froggifier
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|497
+|
+|Copywronger
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|498
+|
+|Floods
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|499
+|
+|Brad
+|''Leroy & Stitch''
+|}
+
+===5-Series: Elemental and environmental manipulators===
+<!-- Please do not add speculative descriptions of the experiments based upon their name. This is not fact. If you have verifiable information on what the experiment does, then add it and state your source. -->
+{| class="wikitable mw-collapsible mw-collapsed" width="100%"
+! scope="col" colspan="4" |Click "expand" for full list
+|-
+!'''Number'''
+!'''Pod Color'''
+!'''Nickname'''
+!'''Episode/Film'''
+|-class="vevent" style="text-align:center;"
+|500
+|
+|Cooler
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|501
+|Blue
+|[[Yin]]
+|105, 126, 130, ''Leroy & Stitch''
+|-
+| colspan="4" |A blue cephalopod-like experiment. Designed to condense moisture in air into water and spray water from her tentacles. Yin was activated with Yang. Jumba said that should the two touch each other, they will cause a giant explosion, but they turned out to be a good example of Yin and Yang; they use fire and water to create a new island. Yin is seen in the episode "Finder" playing poker with Stitch, Yang, Richter and Cannonball and at Lilo's slumber party in the episode "Dupe" with Yang, Richter and Cannonball.
+|-class="vevent" style="text-align:center;"
+|502
+|Blue
+|[[Yang]]
+|105, 126, 130, ''Leroy & Stitch''
+|-
+| colspan="4" |A red weasel/lizard/dragon-like experiment. Designed to shoot lava from the pits along its back, in a similar manner to the nasal opening on experiment 619's face. Yang was activated with Yin. Jumba said that should the two touch each other, they would cause a giant explosion, but they turned out to be a good example of Yin and Yang; they use fire and water to create a new island. Yang is seen in the episode "Finder" playing (and winning) poker against Stitch, Yin, Richter and Cannonball and at Lilo's slumber party in the episode "Dupe" with Yin, Richter and Cannonball.
+|-class="vevent" style="text-align:center;"
+|503
+|
+|Comet
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|504
+|
+|Bling Bling
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|505
+|
+|[[Ploot]]
+|217
+|-
+| colspan="4" |A small blue-green gastropod-like experiment with a small pouch, black beady eyes, green crab-like claws, and two spinning sweeper brushes for feet. He makes dolphin-like sounds at normal size and monster sounds when grown to bigger size. Designed to flood entire cities with thick black sludge made from ordinary trash and pollution that he collects. His two antennae become like giant smoke stacks, letting pollution into the air. Air freshener can dissolve his sludge and make him clean instead of pollute. His one true place is cleaning the beach. In the episode, he is referred to as 515 which is a number taken by Deforestator, who also appears in that episode. His episode aired on Earth Day.
+|-class="vevent" style="text-align:center;"
+|506
+|
+|Ug
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|507
+| Blue
+|[[Woody (Lilo & Stitch)|Woody]]
+|220
+|-
+| colspan="4" |A brown beaver-like experiment with insect-like pincers. Able to eat wood at a rapid pace. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|508
+|
+|Phil
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|509
+|Blue
+|[[Sprout]]
+|111, ''Leroy & Stitch''
+|-
+| colspan="4" |A plant-like experiment with a green stem, leaf-like body, tentacle-like vines, and a purple head with lizard-like face, little sharp teeth, dark blue pupil-less eyes, and a single antenna. Designed to sprout into an uncontrollable forest of destruction. Lilo and Stitch ended up catching him after he had grown enormous, deciding to put him in an old water tower that was slated for demolition. However, in the battle between the Leroy army and the experiments at the end of ''Leroy & Stitch'', 509 did not grow into an uncontrollable forest of destruction like he did in his episode. He is voiced by Frank Welker. He is a parody of the alien plant monster Audrey II from ''Little Shop of Horrors''.
+|-class="vevent" style="text-align:center;"
+|510
+|
+|Drill
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|511
+|
+|Wilt
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|512
+|White
+|Bog
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|513
+|Blue
+|[[Richter]]
+|106, ''Leroy & Stitch'', ''Stitch! The Movie''
+|-
+| colspan="4" |A small purple ankylosaurus-like creature with a lavender stomach, a bulky body and legs, a huge tail with a triangle shape at the end, a round face with a wide mouth, a round nose, black eyes, short ears, a single horn on his head and tiny spikes down his back. Designed to cause vicious, Earth-shattering earthquakes with one thump of his tail. He is named after the Richter scale, and his one true place is making milkshakes. He is seen in the episode "Finder" playing poker with Stitch, Yin, Yang and Cannonball and at Lilo's slumber party in the episode "Dupe" with Yin, Yang and Cannonball. Seen in pod form in ''Stitch! The Movie''. He is voiced by Tress MacNeille.
+|-class="vevent" style="text-align:center;"
+|514
+|
+|Cone
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|515
+|White
+|[[Deforestator]]
+|123
+|-
+| colspan="4" |A big purple roughly wombat-like creature about three feet tall with long blade-like claws on his front paws and blade-like neck. Designed to cut down entire forests. He first appeared just before Jumba created 627, when Stitch started bragging about how easily he catches experiments (overwhelming and rehabilitating Deforestator in two minutes).
+|-class="vevent" style="text-align:center;"
+|516
+|
+|Auntie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|517
+|
+|Parch
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|518
+|
+|Flame
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|519
+|
+|[[Splat]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A large green experiment, with two cone-shaped antennae and a roller between his front legs. Designed to level entire cities with his deceptively small roller. His one true place is as a road roller.
+|-class="vevent" style="text-align:center;"
+|520
+|Blue
+|[[Cannonball]]
+|104
+|-
+| colspan="4" |A pink experiment with a big posterior and short stubby tail. Designed to make big waves (or tsunamis). Lilo and Stitch fear for Kauaʻi because they think he is going to create an island-flooding tsunami, but it turns out that 520 can control his waves and creates one just big enough to send Gantu to San Francisco. His one true place is making waves for surfers. He is seen in the episode "Finder" playing poker with Stitch, Yin, Yang and Richter and at Lilo's slumber party in the episode "Dupe" with Yang, Yin, and Richter. He is voiced by Tress MacNeille.
+|-class="vevent" style="text-align:center;"
+|521
+|
+|[[Wrapper]]
+|220
+|-
+| colspan="4" |A yellow-orange experiment designed to wrap things up like a mummy using his roll of paper for a tail. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|522
+|
+|Tarantula
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|523
+|Blue
+|[[Slushy]]
+|127, 226
+|-
+| colspan="4" |A small icy blue-colored koala-like creature with no ears, small arms and legs, a thin mouth, a large nose, dark blue eyes and three icicles behind his head. Designed to freeze land with his ice breath, generates ice, and also break apart into bits of ice and return to its original form. 523 chills the weather in Lilo's town during a very hot day. He makes it so cold that it starts to snow. Slushy also battles with Splodyhead (619). Splodyhead and Stitch overwhelm him, and the former restores the warm climate to the island. His one true place at the ice cream shop creating Shave Ice. In the episode "Snafu", he is shown at the Shave Ice stall working with Experiment 344 (Dupe).
+|-class="vevent" style="text-align:center;"
+|524
+|
+|Shovel
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|525
+|Blue
+|Stoneface
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|526
+|
+|Gus
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|527
+|
+|Chip
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|528
+|
+|SPF
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|529
+|Red or Purple
+|[[Digger]]
+|''Stitch! The Movie'', ''Leroy & Stitch''
+|-
+| colspan="4" |A tan meerkat-like experiment with a long drill-shaped tail, a round body, short arms and legs with sharp claws, a round head with sharp teeth, a dark round nose, dark blue eyes and a row of spikes from his head down to his tail. Designed to dig or drill holes through planets. He was activated at the end of ''Stitch! The Movie''.
+|-class="vevent" style="text-align:center;"
+|530
+|
+|Crybaby
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|531
+|
+|Hisee
+|''Disney Adventures Magazines''
+|-
+| colspan="4" |A [[Unconfirmed Experiments#Comic Zone Volume 1: Disney's Lilo & Stitch|green mole/chimp-like experiment]] with six hairs on its head, a very small body and a stubby tail. It appeared in some ''[[Disney Adventures]]'' comics (the ones where Jumba is fixing Stitch). Function unknown.
+|-class="vevent" style="text-align:center;"
+|532
+|
+|Strato
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|533
+|Blue
+|[[Blowhard]]
+|220
+|-
+| colspan="4" |A purple anteater-like experiment with an elephant-like head with a long trunk and a bellows on the back of his head, designed to immobilize any object by flying it like a kite. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|534
+|
+|Crabweed
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|535
+|
+|Spectrum
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|536
+|
+|Polar
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|537
+|
+|Rust
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|538
+|
+|Autumn
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|539
+|Blue
+|Algae
+|''Disney's Stitch: Experiment 626'', ''Stitch! The Movie''
+|-
+| colspan="4" |Mentioned in ''[[Disney's Stitch: Experiment 626]]'' when Jumba expressed regret at not giving this experiment a mutating gene. Seen in pod form in ''Stitch! The Movie''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|540
+|Blue
+|[[Phoon]]
+|210
+|-
+| colspan="4" |A small red elephant-like experiment. Designed to create massive typhoon-like winds. She mutated into a stronger form after being shot by Jumba's ray but reverted to her original form after Stitch put her to sleep. Her one true place is creating winds for windsurfers on the beach.
+|-class="vevent" style="text-align:center;"
+|541
+|
+|Swell
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|542
+|
+|Hallie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|543
+|
+|Franklin
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|544
+|
+|[[Thresher]]
+|126, 226
+|-
+| colspan="4" |A small purple, roughly slug-like experiment with a slim body, a wide mouth, two eyes on two stocks, six spiky mace-like tentacles and three short legs. Designed to thrash crops with his mace-like appendages. Thresher was used by Gantu to defeat Stitch but was defeated in "Dupe". He is rescued by Lilo and Stitch in "Snafu".
+|-class="vevent" style="text-align:center;"
+|545
+|
+|Pompey
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|546
+|
+|Rip
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|547
+|
+|Cam
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|548
+|
+|Cheesy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|549
+|
+|Supersweet
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|550
+|
+| Clammy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|551
+|
+|Dryheat
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|552
+|Blue
+|Astro
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|553
+|
+|Clipse
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|554
+|
+|Sol
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|555
+|
+|Liquefactor
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|556
+|
+|Berg II
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|557
+|
+|Cauldron
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|558
+|
+|Sepia
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|559
+|
+|Midasminus
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|560
+|Yellow
+|Prism
+|''Stitch! The Movie''
+|-
+| colspan="4" |Seen in pod form in ''Stitch! The Movie''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|561
+|
+|He
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|562
+|
+|Hardy
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|563
+|
+|Silbert
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|564
+|
+|Lot's Wife
+|''Leroy & Stitch''
+|-
+| colspan="4" |Unseen but this experiment's name—a reference to a {{WikipediaLink|Lot's Wife|bibical figure}}—was misspelled as "Lotis Wife" in [https://www.youtube.com/watch?v=zjJxM6iPTR0 the original DVD release.] Later digital releases [https://www.youtube.com/watch?v=_SwS-fBNJxc corrected this misspelling.]
+|-class="vevent" style="text-align:center;"
+|565
+|
+|Phosphor
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|566
+|
+|[[Derrick]]
+|220
+|-
+| colspan="4" |A grey dinosaur-like experiment with a drill-like tail, wearing a construction helmet. Designed to drill potholes. His one true place is with Mrs. Hasagawa as one of her "cats."
+|-class="vevent" style="text-align:center;"
+|567
+|Blue
+|Eva
+|123
+|-
+| colspan="4" |Seen in pod form in 627. Pod caught by Gantu. Function unknown.
+|-class="vevent" style="text-align:center;"
+|568
+|
+|Slenky
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|569
+|
+|Glenn
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|570
+|
+|Frosty D.
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|571
+|
+|Dusty
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|572
+|
+|Dropcall
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|573
+|
+|Handoman
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|574
+|
+|Lardo
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|575
+|
+|Magnarette
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|576
+|
+|Darn
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|577
+|
+|Oof
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|578
+|
+|Carrie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|579
+|
+|Spinster
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|580
+|
+|Friday
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|581
+|
+|Roadie
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|582
+|
+|Spout
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|583
+|
+|Blake
+|''Disney's Stitch: Experiment 626''
+|-
+|colspan="4" |Mentioned in ''[[Disney's Stitch: Experiment 626]]'' when Jumba revealed that he gave this experiment wings, but regretted doing so. Function unknown.
+|-class="vevent" style="text-align:center;"
+|584
+|
+|Balar
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|585
+|
+|Petrifier
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|586
+|Blue
+|[[Tank (Lilo & Stitch)|Tank]]
+|120, 226, ''Leroy & Stitch''
+|-
+| colspan="4" |A round orange armadillo/bulldog-like experiment with thick legs, sharp teeth, and a short tail. Designed to eat metal, and grows bigger each time he does. He is eventually caught by Gantu and sent to Hämsterviel, but rescued in "Snafu". Note that he shrunk between "Tank" and "Snafu", suggesting he returns to normal size after a while.
+|-class="vevent" style="text-align:center;"
+|587
+|
+|Noviz
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|588
+|
+|Sa
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|589
+|
+|Stoopinslide
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|590
+|
+|Baron Meter
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|591
+|
+|Squidly
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|592
+|
+|Deodorant
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|593
+|
+|Heatwaver
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|594
+|
+|Colm
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|595
+|
+|Icecrusher
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|596
+|
+|El Carbon
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|597
+|
+|Zirconia
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|598
+|
+|Gluteous
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|599
+|
+|Tattoo
+|''Leroy & Stitch''
+|}
+
+===6-Series: Battlefield and doomsday experiments with galactic implications===
+<!-- Please do not add speculative descriptions of the experiments based upon their name. This is not fact. If you have verifiable information on what the experiment does, then add it and state your source. -->
+{| class="wikitable mw-collapsible mw-collapsed" width="100%"
+! scope="col" colspan="4" |Click "expand" for full list
+|-
+!'''Number'''
+!'''Pod Color'''
+!'''Nickname'''
+!'''Episode/Film'''
+|-class="vevent" style="text-align:center;"
+|600
+|Blue
+|[[Woops]]
+|224
+|-
+| colspan="4" |A purple, skinny, Stitch-like experiment with huge yellow buckteeth, a football-shaped head with three short white-tipped antennae and a short white-tipped tail. Designed to have all the powers of Stitch, but is a klutz who accidentally bumps into everything. The only thing he can say is, of course, "Woops." His one true purpose is being a valued member of Pleakley's bowling team (because the one thing he can actually do is knock things over, including bowling pins). He is the first prototype of Stitch and is a massive failure.
+|-class="vevent" style="text-align:center;"
+|601
+|Blue
+|[[Kixx]]
+|103, ''Leroy & Stitch''
+|-
+| colspan="4" |A large, purple, muscular, beastly, Tasmanian Devil-like creature with bulky legs and torso, four strong arms with three fingers on each paw, a blue oval spot on each elbow, short ears, hardly any neck, a wide mouth, a round nose, and black eyes. Designed to be a bully with special kickboxing skills. His one true place is teaching kick-boxing, and has his own instructional video entitled "Kick-boxing with Kixx". He is voiced by Frank Welker.
+|-class="vevent" style="text-align:center;"
+|602
+|Blue
+|[[Sinker]]
+|124
+|-
+| colspan="4" |A small, purple shark-like experiment designed to destroy and sink enemy ships with its large dorsal fin. His one true place is at a Japanese restaurant where he uses his large fin to cut up vegetables and fillet fish for the chefs to make sushi.
+|-class="vevent" style="text-align:center;"
+|603
+|
+|[[Zap]]
+| 123, 226
+|-
+| colspan="4" |A bright yellow, living laser beam and has lightning-shaped antennae, dark blue eyes, and a small limbless vaguely dog-like body. He was caught by Gantu with the help of experiment 627 in "627", but was later rescued in "Snafu".
+|-class="vevent" style="text-align:center;"
+|604
+|Yellow
+|[[Houdini]]
+|119
+|-
+| colspan="4" |A whitish-tan rabbit-like experiment with four brown spots on each elbow and knee, pink mark on his chest and stomach, purple markings on his back and ear tips and a little face with a small mouth, dark pink nose, and huge black eyes. Designed to make anything and himself disappear with a blink of his huge eyes, though he can also make them re-appear. His eyes are sensitive to intense light (i.e. camera flashes), which cause him to blink reflexively and randomly make surrounding objects or creatures disappear. He is named after Harry Houdini. His one true place is as a Hollywood magician. He was one of the twelve new pods found by Lilo and Stitch in "Drowsy". He is voiced by Rob Paulsen.
+|-class="vevent" style="text-align:center;"
+|605
+|
+|Warpstron
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|606
+|Blue
+|[[Holio]]
+| 116, ''Leroy & Stitch''
+|-
+| colspan="4" |A small, red, chipmunk-like experiment with a large mouth, two thin antennae, and three thin back spines. Designed to create a matter-sucking black hole when he opens his mouth. His one true place is in construction, clearing up waste. He is voiced by Frank Welker.
+|-class="vevent" style="text-align:center;"
+|607
+|Blue
+|Launch
+|123, 208
+|-
+| colspan="4" |A naked mole rat-like experiment with four spines on its back. Designed to warp the fabric of time and space, causing the entire universe to collapse upon itself. 607 itself never actually appeared in the series, but was the pod on the sandcastle in "627" and [[Jumba's Computer|was shown]] on Jumba's computer. [[Rufus (Kim Possible)|Rufus the Mole Rat]] was mistaken for this experiment by Jumba in the ''Lilo & Stitch''/''[[Kim Possible]]'' crossover episode "[[Rufus (episode)|Rufus]]" until Stitch identified him as not being one of the "cousins".
+|-class="vevent" style="text-align:center;"
+|608
+|Blue
+|[[Slugger]]
+|139, ''Leroy & Stitch''
+|-
+| colspan="4" |A small, yellow, pterosaur-like experiment. Designed to deflect projectiles with his tail shaped like a baseball bat. His one true place is as a coaching assistant for Little League baseball.
+|-class="vevent" style="text-align:center;"
+|609
+|
+|[[Heat]]
+|126, 226
+|-
+| colspan="4" |An orange vaguely dog-like experiment with small eyes, a big mouth, small ears and a large black oval-shaped blowtorch-like feature on his forehead. Designed to fire heat from the black oval in his forehead. Heat was used by Gantu to defeat Stitch but was defeated in "Dupe". He is rescued by Lilo and Stitch in "Snafu".
+|-class="vevent" style="text-align:center;"
+|610
+|Green
+|[[Witch (Lilo & Stitch)|Witch]]
+|''Stitch!''
+|-
+| colspan="4" |A purple, ghost-like experiment with a white-striped witch hat extending from her head, a yellow heart-shaped mark on her white chest, and wavy arms similar to cloth. She is basically a witch. She was designed to utilize supernatural forces in order to subdue and abduct planetary leaders. Her powers include intangibility, animation, and various other reality-bending abilities. She is capable of possessing individuals and channeling her powers through their vessel. She can be forced out of her victim if she sees her reflection.
+|-class="vevent" style="text-align:center;"
+|611
+|
+|El Fin (Doomsday)
+|119
+|-
+| colspan="4" |Designed to make the universe implode when Jumba speaks the password. Fortunately, Jumba forgot the password.<ref name="WinfieldTVTome" /> 611 itself never actually appeared in the franchise, but [[Experiment Pod Container|was shown]] on the experiment pod container. Called the "ultimate super weapon", Gantu thought that he had 611's pod in "Houdini", but he was actually reading 119's pod upside down. His original name was Doomsday, but this was changed due to a copyright issue.
+|-class="vevent" style="text-align:center;"
+|612
+|
+|Blondzilla
+|''Leroy & Stitch''
+|-
+| colspan="4" |A red dinosaur-like experiment with round spikes down its back and two spines on the back of its head. Designed to terrorize cities.
+|-class="vevent" style="text-align:center;"
+|613
+|Yellow
+|[[Yaarp]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |A small, blue, lemur-like experiment with Drowsy-like ears, but with darker tips instead of stripes, four arms and a megaphone-like antenna on his head. Designed to make a literally deafening sonic blast. After Pleakley captured him because Stitch could not, he named him with a word from his native planet. His one true place is as an alien invasion alarm and buzzer for Lilo's hula school. He also operates the scoreboard for the game show in "Spike".
+|-class="vevent" style="text-align:center;"
+|614
+|
+|Gunnar
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|615
+|
+|Yogee
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|616
+|Blue
+|Joey
+|''Stitch!''
+|-
+| colspan="4" |Seen in pod form in ''Stitch!''. Function unknown.
+|-class="vevent" style="text-align:center;"
+|617
+|
+|[[Plasmoid]]
+|126, 226
+|-
+| colspan="4" |A large green scorpion-like creature with a pincer-less tail. Designed to shoot explosive balls of plasma from his tail. Plasmoid was used by Gantu to defeat Stitch in "Dupe" and was rescued in "Snafu".
+|-class="vevent" style="text-align:center;"
+|618
+|
+|Crystallene
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|619
+|Blue or Red
+|[[Splodyhead]]
+|117, 127
+|-
+| colspan="4" |A small red, six-legged reptilian dragon-like experiment with a red-purple-striped horn on his head, brick-red markings on his forehead and back, short red-orange-tipped ears, blue eyes with red-purple spots around them, a hole-like nose, and a furry body. Designed to shoot fiery plasma blasts from his nose. His one true place is lighting luau torches. He comes over to Lilo's house when he overheated in "Slushy". He later helped fight Slushy with fire against ice. In the episode, Jumba erroneously refers to him as "515".
+|-class="vevent" style="text-align:center;"
+|620
+|
+|Page
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|621
+|
+|[[Chopsuey]]
+|''Disney's Stitch: Experiment 626'', ''Leroy & Stitch''
+|-
+| colspan="4" |A green, skinny Stitch look-alike with a spiky yellow Mohawk and two prominent fangs jutting from his lower jaw. He has all of Stitch's powers and is jealous of all the attention Stitch gets. In the PlayStation 2 game ''Disney's Stitch: Experiment 626'' he steals the DNA that Stitch collects for Jumba, mutating into a stronger form. The plot of this game has since been retconned from canon continuity due to the events depicting Stitch being apprehended immediately after his creation in ''Lilo & Stitch 2: Stitch Has A Glitch''. However, 621 could still have the same physical appearance and personality. He is both very physical and well-equipped. His weapons include Jet-Pack, Grapple-Gun, rocket-launching Big Gun, and Freeze Gun. The second true prototype of Stitch but he does not appear in the series and has no record from Disney so 625 or Reuben takes this prototype number. He also has the strange ability to mutate when power is charged at most extreme. He is voiced by Frank Welker.
+|-class="vevent" style="text-align:center;"
+|622
+|
+|Jumby
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|623
+|
+|Trainer
+|''Leroy & Stitch''
+|-class="vevent" style="text-align:center;"
+|624
+|
+|[[Angel (Lilo & Stitch)|Angel]]
+|125, 215, 226, ''Leroy & Stitch'', ''Stitch Jam'', ''Stitch!''
+|-
+| colspan="4" |A pink shapely female experiment with a strong feminine resemblance to Stitch and his primary love interest, with two long tendril-like violet-tipped antennae, violet-tipped ears, small eyelashes, white V-shaped symbol, slightly larger chest puffed out and dark pink Stitch-like back markings (originally upside-down heart-shaped or sometimes gone). Designed to sing a song that turns "good" experiments to "bad", though it also worked on Jumba. Stitch and Reuben are immune to her song's effect, as they were created after Angel. The spell can be reversed by Angel singing the song backwards or by playing a recording of her song in reverse. She is in love with Stitch and is the closest one to him. Angel was caught by Gantu after defecting from his side out love for Stitch but rescued in "Snafu". She is voiced by Tara Strong.
+|-class="vevent" style="text-align:center;"
+|625
+|Blue or White
+|[[Reuben]]
+|''Disney Adventures Magazine'', Most episodes, ''Stitch! The Movie'', ''Leroy & Stitch''
+|-
+| colspan="4" |A golden, koala/marmot-like experiment resembling a chubbier version of Stitch with short ears that flop down at the sides of his head, three small antennae that look like a tuft of fluffy fur, pointed fingers, short stumpy legs, hourglass-shaped marking on his back and two flat teeth sticking out of his mouth and overlapping his bottom lip (in the ''Disney Adventures'' Magazine Comics before ''Lilo & Stitch'', he was blue). He is a prototype of Stitch; but despite his powers, he is lazy, cowardly, and only makes sandwiches. Only referred to as 625 in the series and ''Stitch! The Movie'', but was finally named Reuben by Lilo during ''Leroy & Stitch''. He speaks English with a hint of a Brooklyn accent. Reuben serves as Gantu's wisecracking sidekick during the series. After receiving his name and working alongside Lilo in ''Leroy & Stitch'', he found his one true place alongside a newly recommissioned (and redeemed) Captain Gantu as his galley officer. He is voiced by Rob Paulsen.
+|-class="vevent" style="text-align:center;"
+|626
+|
+|[[Stitch]]
+|All episodes, movies, and magazines
+|-
+| colspan="4" |A blue, koala-like experiment with large rabbit-like ears, a wide mouth, a round nose, black eyes, a small, short, stubby tail, two nose wrinkles, one chin wrinkle, three tuffs of sharp hair on top of his head and on his chest as well as two extra, retractable arms, three retractable spines that run down his back (the first spine is the shortest, then longest, then medium), sharp retractable claws on his front and back paws and two retractable antennae on his head. Designed to be abnormally strong, virtually indestructible, super intelligent and very mischievous. He can think faster than a supercomputer, he is fireproof and bulletproof, can spit acid, can hear in different hearing levels, can see in the dark, can jump really high, can climb up walls and walk on ceilings, can roll into a ball, have super sight and hearing and lift objects 3000 times his own weight (but not an ounce more). His only weakness is water, as he cannot swim due to his molecular density. When he becomes good, he has a heart of gold. His one true place is, of course, as Lilo's "dog." He is the first experiment to be created without Dr. Hämsterviel's funding. He is the most successful experiment Jumba has made. He's also the main character and hero in the series and in the movies. After learning of his older "cousins", he and his friend, Lilo, make it their mission to give them a new purpose beyond chaotic mayhem. He has a romantic relationship with Experiment 624, Angel and, later, acts like a brother to both her and Reuben. He is voiced by Chris Sanders. He is the first successful destructing experiment Jumba created after two failures: 600 and 625.
+|-class="vevent" style="text-align:center;"
+|[[627]]
+|Blue
+|N/A
+|123
+|-
+| colspan="4" |A red and yellow, cone-head, purple-nosed, monstrous experiment that looks like a bigger, badder, and worse-mannered version of Stitch, with the same face expression, ear notches at the top of each ear, a wiry body, dark eyes, four extra retractable arms, four retractable spines that run down his back (the first and last spine are the shortest, the second spine is the longest, then medium), black sharp retractable claws on his front and back paws, retractable antennae, an extra retractable head and an alien-like outstretchable mouth. He is the first experiment to be created on Earth with limited alien technology and without Dr. Hämsterviel's funding and serves as Stitch's bitter, villainous rival. Designed to have all the powers/strengths of Stitch and 20 other experiments, but none of their weaknesses, and absolutely no ability to turn to good. All 627 can say is "evil". 627 was mostly stronger and healthier than Stitch. 627's other powers include telekinesis, electrokinesis, plasma shoot and ice breath. His only apparent weakness is his loud, uncontrollable laughter. Even though seemingly "indestructible", 627 was outwitted and dehydrated back into an experiment pod by Stitch and Lilo, using a commercially available home food dehydrator, and he had been dehydrated for three years. After this, he did not appear again except for in a video recording in "Mrs. Hasagawa's Cats/Ace" and a dream sequence in "Remmy". He is also briefly mentioned in ''Leroy & Stitch''. He is voiced by Chris Sanders. He is the only experiment to keep his number as a name since Lilo did not give him one.
+|-class="vevent" style="text-align:center;"
+|628
+|Blue
+|N/A
+|123
+|-
+| colspan="4" |Created with 627 or after Stitch defeated 627. Seen only in pod form at the end of "627" as Jumba locked it away in a vault, saying: "So much for experiment 627. Perhaps I will have better luck next time."
+|-class="vevent" style="text-align:center;"
+|629
+|
+|[[Leroy]]
+|''Leroy & Stitch''
+|-
+| colspan="4" |Stitch's evil twin, with red fur, frilly ears, yellow teeth, bent antennae, three bent spines on his back, a fluffy tail, and a slightly deeper voice as well as two extra, retractable arms and retractable claws on his front paws. Jumba started creating him from a template similar to Stitch, until Dr. Hämsterviel captured him and forced him to make a "new version" of 626. Designed to have all of Stitch's powers, but he also has the ability to disguise himself as Stitch by changing his fur color from red to blue (Dr. Hämsterviel hates the color blue, so he told Jumba to make him resplendent red to match his cape) and instantly regrow his fur. Leroy is very physical, but also makes liberal use of his plasma gun. After naming him "Leroy", Dr. Hämsterviel used a cloning machine to create an army, then sent the original Leroy down to Earth to capture the 624 experiments remaining there. Fortunately, Jumba secretly programmed a fail-safe into Leroy before he was charged: If Leroy (or his clones) hears the song "Aloha Oe", his nervous system will shut down. After his defeat, Leroy and his clones are all placed in jail with Hämsterviel. Leroy's number is never mentioned in the movie. Jumba tries to call him "627", but Gantu reminds him that he's already made experiment 627. He is voiced by Chris Sanders. He and all his clones are sent to jail at the end of the movie, where they are seen happily dancing to "Jailhouse Rock". Some merchandise labels Leroy as Experiment 628.
+|}
+
+==Trivia==
+*According to [[Jess Winfield]], during the development of ''[[Lilo & Stitch: The Series]]'', the idea of it focusing on "the other 625 experiments" was birthed from an idea by artist and director Steve Lyons who "suggested that an evil villain clone [[Stitch]] into a bunch of different creatures that [[Lilo Pelekai|Lilo]] and Stitch would chase." Also, the phrase "the other 625 experiments" was coined either by Winfield himself, [[Bobs Gannaway]], or possibly Barry Blumberg, although Winfield doesn't remember who was first to say it.<ref name="WinfieldTVTome" />
+*''[[Disney's Stitch: Experiment 626]]'' featured an experiment series numbered as 700, which were mass-produced by [[Jumba Jookiba|Jumba]] and served as enemies in the game.
+*In ''[[Stitch!]]'', eleven previously unseen experiments created by Jumba were introduced in addition to two experiments created by someone other than Jumba. The first, called [[Skunkuna]], was created by [[Dr. Hämsterviel|Hämsterviel]], and the second was [[Dark End]], created by [[Delia]]. Since neither were created by Jumba, they do not fall under his numbering scheme.
+*In ''[[Stitch & Ai]]'', Jumba [[Jumba's Chinese Experiments|creates new experiments]] based on ancient scrolls he is given. Most are based on [[China|Chinese]] mythical creatures, while others appear to be derived from some creatures. It is unknown whether or not Jumba considers these experiments a part of his existing numbering scheme.
+*According to the series episode "[[Skip (episode)|Skip]]" (as seen on a monitor) and the [[Magic Kingdom]] attraction [[Stitch's Great Escape!]] (as seen on wanted posters in the exit halls of the attraction), the official shorthand prefix for "Experiment" is "X-" (X with a hyphen). In addition, Jumba referred to [[Spooky]] as "X-300" (ex three hundred), [[Kixx]] as "X-601" (ex six-oh-one), and [[Morpholomew]] as "X-316" (ex three-one-six) in their [[Spooky (episode)|respective]] [[Kixx (episode)|eponymous]] [[Morpholomew (episode)|episodes]], further supporting this.
+*To date, there are only 127 of Jumba's experiments that have appeared and have their names, numbers, and functions confirmed. This includes Coco who has only appeared in the ''[[Disney Adventures]]'' comics and was confirmed by Jess Winfield, [[Chopsuey|Experiment 621]] from ''Disney's Stitch: Experiment 626'', and [[Zero (Stitch!)|Experiment 000]] who first appeared in the ''Stitch!'' anime. This numbering scheme does not count the new experiments Jumba made in ''Stitch & Ai'' as stated above.
+**Experiments 021, 153, 274, 340, 412, 413, 414, 415, 607, and 611 have their names, numbers, and functions confirmed, but have never physically appeared.
+**Experiments 607 and 611 have appeared as stylized graphics on [[Jumba's Computer|Jumba's computer]] and the [[Experiment Pod Container|experiment pod container]]'s screen, respectively.
+**[[627|Experiment 627]] has physically appeared, but was never given an official name.
+**Experiments 347 and 531 have appeared in the comics, but do not have their functions confirmed.
+**[[Unconfirmed Experiments#Comic Zone Volume 1: Disney's Lilo & Stitch|Tippy]] has also appeared in the comics, but we do not know anything about her except that she is Jumba's experiment. Additionally, her name is not seen in the experiments list in the end credits of ''[[Leroy & Stitch]]'', so she most likely doesn't apply to Jumba's numbering scheme.
+**There are several experiments that have appeared in DVD bonus features, comics, and ''Leroy & Stitch'' that have [[Unconfirmed Experiments|never been assigned to a name and number]].
+**Also, [[Unconfirmed Experiments#Miscellaneous|two experiments]] appeared in ''[[Stitch!Now]]'', but they were not confirmed to be Jumba's experiments.
+**There are some functions that have never been assigned to a name and number: the experiment designed to turn things into ham was mentioned by [[Pleakley]] in "[[Remmy (episode)|Remmy]]"; as well as the experiment designed to clog sinks and the experiment with two horns that makes "zzz" sound were mentioned by [[Reuben]] and [[Captain Gantu|Gantu]] (respectively) in "Skip" (both were captured by Gantu). Also, some experiments are revealed to have similar abilities of 627.
+**Of the 125 experiments that have appeared and been confirmed (including Stitch), ''[[Stitch! The Movie]]'' introduced 7 experiments, the original series introduced a total of 93 with 45 of them appearing in Season 1 and 48 appearing in Season 2, ''Leroy & Stitch'' introduced 13, and ''Stitch!'' introduced 11 (excluding Dark End, Skunkuna, and [[Sprout#Stitch!|Sproutling]]).
+**We have met 20% of Jumba's experiments in [[Lilo & Stitch (franchise)|the franchise]] that have their names, numbers, and functions confirmed, while we only know around 21% of the experiments' functions.
+*In most of the franchise, though more prominently in the anime, Stitch typically prefaces the names of his fellow experiments (other than [[Angel (Lilo & Stitch)|Angel]]) with "cousin".
+*Skunkuna, Dark End, and Tippy are the only numberless experiments. The former two are the only known experiments that weren't created by [[Jumba Jookiba|Jumba]], as Skunkuna was created by Dr. Hämsterviel and Dark End was created by [[Delia]], which means they are not included in Jumba's numbering. Tippy was created by Jumba as an intelligent toy for [[Lilo Pelekai|Lilo]], although it's debatable whether she counts as an experiment considering she appears as a robot.
+*000, 627, and 628 are the only nameless experiments, and thus only referred to by their numbers. The fandom have previously given them nicknames, which have led to erroneous beliefs that those were their canonical names.
+**627 was previously called "Evile" by the fandom due to him being evil and saying only that word in ''Lilo & Stitch: The Series''.
+**000's popular name in the fandom is "Cyber", due to him being a biomechanical creature, but he is only ever referred to as "Zero" in all dubs of his only anime episode. This also implies that his number is also his name, especially considering the fact that he is referred to as just "Zero" instead of "Zero-Zero-Zero".
+**628's name in the fandom varies depending on fan interpretations due to it never being activated in the series. 628 is also the only unseen experiment without known details or other traits that doesn't have an official name, due to Lilo and Stitch never having dealt with it.
+*Chronologically, Zero is Jumba's first experiment, while [[Leroy]] is Jumba's last experiment.
+*627 is Jumba's strongest and powerful experiment due to him having the abilities of at least 20 experiments, a highly-muscular body that outclasses Stitch's, the ability to have six arms and two heads, and other things. The most dangerous experiment, however, is Zero, since he can create an armada of robots and a galactic-level nuke.
+*Chopsuey, 627, Leroy and [[Leroy Clones|his clones]], Zero, and Dark End are the only experiments that are actually villains, while all the other experiments were following their primary function.
+*627, Leroy, Zero, and Dark End serve as dark versions of Stitch, with Zero being too difficult to control where he disregarded the notion of family, Dark End having a low opinion on family and friends, 627 being designed to be an evil monster who cannot be rehabilitated, and Leroy being made for Hämsterviel and not ever given the opportunity to reform. 627, Leroy, Zero, and Dark End all serve as what Stitch would have become if he had never met Lilo and her ''[[Pelekai ʻohana|ʻohana]]'' and been introduced to the meaning of family.
+*628 is the only experiment that was never activated.
+
+===Continuity errors===
+*Several experiments have been given multiple numbers, such as [[Bonnie (Lilo & Stitch)|Bonnie]] and [[Clyde (Lilo & Stitch)|Clyde]], who are called 349 and 350 in [[Bonnie & Clyde|their episode]], but called 149 and 150 in the end credits of ''Leroy & Stitch''. The same goes for [[Finder]] and [[Ploot]], who are called 458 and 515 in their [[Finder (episode)|respective]] [[Ploot (episode)|episodes]], but called 158 and 505 in the end credits of ''Leroy & Stitch''.
+*Many of the experiments that appear in the background during the Aloha Stadium battle in ''Leroy & Stitch'' are duplicates or recolors and slight edits of existing experiments. They were put in as screen fillers to make it appear as if all 626 experiments were actually there. For example, [[Houdini]] appears five times in the frame, while [[Cannonball]] appears eight times; twice recolored, twice re-edited and four times copied. [[Phoon]] is also seen twice in the scene, both in normal and mutated form.
+*Experiment 272 was listed as "Mamf" in the end credits of ''Leroy & Stitch''. However, in ''Stitch!'', [[Wormhole]] is called 272 while 275 is given to [[Tickle-Tummy]], who was mistakenly left off the list in the movie. When asked about the numbers of these three, Jess Winfield stated: "The best I can tell you about Tickletummy/Wormhole is that Jumba's genius does not extend to keeping a tidy database. There is some confusion in his records regarding Tickletummy, Wormhole, and a third experiment named Mamf, with different lists giving different numbers for them. Perhaps it will be sorted out someday."
+
+==Gallery==
+===Promotional images===
+<gallery widths="150" spacing="small" position="center" captionalign="center">
+Stitch experiments wallpaper.jpg|Experiment artwork from [[Japan]]
+Experiments Group Shot.jpg|Pre-release artwork from ''[[Leroy & Stitch]]''
+Groupphoto.jpg|Japanese puzzle art based on the family photo scene at the end of ''Leroy & Stitch''
+Club Buena Vista - Stitch! The Movie cousins Japanese poster.jpg|Japanese computer desktop wallpaper
+Stitch and experiments.jpg|Early artwork of experiments and the [[Experiment Pod Container]]
+Stitch-experiments and ohana.jpg|The [[Pelekai ʻohana|Pelekai ''ʻohana'']] with a small selection of experiments.
+Stitch! The Movie promo wallpaper.jpg|Experiments causing a mess in the Pelekais' kitchen.
+Stitch cousin Infographic.jpg|Infographic
+Stitch postcard from Disneyland Paris.jpg|[[Disneyland Paris]] postcard with [[Yang]], [[Sparky (Lilo & Stitch)|Sparky]], and [[Richter]]
+Stitch and Experiments puzzle.jpg|Japanese jigsaw puzzle featuring [[Stitch]], [[Jumba Jookiba|Jumba]], [[Dr. Hämsterviel|Hämsterviel]], and a number of experiments.
+Lilo & Stitch Hawaiian Market puzzle.jpg|Yanoman ''Lilo & Stitch'' [[Hawaii]]an Market jigsaw puzzle
+</gallery>
+
+===Miscellaneous===
+<gallery widths="150" spacing="small" position="center" captionalign="center">
+Leroy & Stitch - Experiments at Aloha Stadium.png
+Leroy & Stitch - The Experiments group photo.png
+Experiment List.jpg|The end credits listing from ''Leroy & Stitch''
+Experiment List2.jpg
+Cousins List Disney Tsum Tsum - 1 to 9.png|Nine experiments as they appear as Tsums in ''[[Disney Tsum Tsum (game)|Disney Tsum Tsum]]'', during the January [[2019]] global "Stitch's Cousin Frenzy!" event.
+Cousins List Disney Tsum Tsum - 10 to 18.png|Another nine experiments as they appear as Tsums in ''Disney Tsum Tsum'' from the same event.
+MDM - Lilo & Stitch Touchscreen.png
+MDM - Lilo & Stitch1.png
+MDM - Lilo & Stitch2.png
+MDM - Lilo & Stitch3.png
+DP - Experiments lineup.jpg
+DP - Angel, Sparky & Sample.jpg
+Lilo & Stitch The Series French 12 DVD set cover.jpg|''[[Lilo & Stitch: The Series]]'' [[France|French]] DVD box set cover featuring rare official artwork of several experiments.
+Stitch! Anime Stitch and Cousins Line Up Model Sheet.jpg
+Stitch Doorables.jpg
+Stitch Alien Experiment Character Guide cover.jpg
+Stitch Alien Experiment Character Guide - Doubledip and Gigi.jpg
+Stitch Alien Experiment Character Guide - Pop and Felix.jpg
+Stitch Alien Experiment Character Guide - Kernel and Slick.jpg
+</gallery>
+
+==References==
+{{Reflist}}
+
+==See also==
+*[[Unconfirmed Experiments]]
+*[[Jumba's Chinese Experiments]]
+
+==External links==
+*{{L&S}}
+{{Lilo & Stitch}}
+[[Category:Lilo & Stitch characters]]
+[[Category:Males]]
+[[Category:Females]]
+[[Category:Heroes]]
+[[Category:Heroines]]
+[[Category:Characters in Disney parks]]
+[[Category:Disney characters]]
+[[Category:Character groups]]
+[[Category:Armies]]
+[[Category:Aliens]]
+[[Category:Creatures]]
+[[Category:Monsters]]
+[[Category:Lilo & Stitch Experiments]]
+[[Category:Characters who are musicians]]
+[[Category:Kingdom Hearts characters]]
+[[Category:Characters in the Disney animated features canon]]
+[[Category:Characters in video games]]
+[[Category:Animated characters]]
+[[Category:Character lists]]
+[[Category:Stitch! characters]]

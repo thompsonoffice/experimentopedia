@@ -1,0 +1,32 @@
+# Mind, emotion and senses
+
+Sorted automatically by keywords in each experiment's description, so some experiments appear in more than one category.
+
+- [Experiment 010: Felix](../experiments/010.md)
+- [Experiment 029: Checkers](../experiments/029.md)
+- [Experiment 086: Clink](../experiments/086.md)
+- [Experiment 113: Shoe](../experiments/113.md)
+- [Experiment 145: Bragg](../experiments/145.md)
+- [Experiment 199: Nosy](../experiments/199.md)
+- [Experiment 210: Retro](../experiments/210.md)
+- [Experiment 221: Sparky](../experiments/221.md)
+- [Experiment 262: Ace](../experiments/262.md)
+- [Experiment 275: Tickle-Tummy](../experiments/275.md)
+- [Experiment 276: Remmy](../experiments/276.md)
+- [Experiment 277: Snooty](../experiments/277.md)
+- [Experiment 300: Spooky](../experiments/300.md)
+- [Experiment 303: Amnesio](../experiments/303.md)
+- [Experiment 316: Morpholomew](../experiments/316.md)
+- [Experiment 322: Heckler](../experiments/322.md)
+- [Experiment 323: Hunkahunka](../experiments/323.md)
+- [Experiment 355: Swapper](../experiments/355.md)
+- [Experiment 360: Drowsy](../experiments/360.md)
+- [Experiment 383: Swirly](../experiments/383.md)
+- [Experiment 520: Cannonball](../experiments/520.md)
+- [Experiment 540: Phoon](../experiments/540.md)
+- [Experiment 611: El Fin (Doomsday)](../experiments/611.md)
+- [Experiment 624: Angel](../experiments/624.md)
+- [Experiment 626: Stitch](../experiments/626.md)
+- [Experiment 629: Leroy](../experiments/629.md)
+
+[Back to index](../INDEX.md)
