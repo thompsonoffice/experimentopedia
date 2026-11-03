@@ -29,4 +29,4 @@ Like Drugopedia, the pages are generated. `tools/rows.json` and `tools/pages.jso
 
 ## Sources and license
 
-Text is condensed and adapted from the Disney Wiki (disney.fandom.com) and the Lilo & Stitch Wiki (liloandstitch.fandom.com), with unverified function notes machine-translated from disney-classic.ru. The wiki text comes, mainly its "Experiments" list and the individual character articles. That wiki content is licensed CC BY-SA 3.0, so this repository is shared under the same CC BY-SA 3.0 license, with attribution to the Disney Wiki contributors.
+Text is condensed and adapted from the Disney Wiki (disney.fandom.com) and the Lilo & Stitch Wiki (liloandstitch.fandom.com), with unverified function notes machine-translated from disney-classic.ru. The main sources are the wikis' "Experiments" lists, character articles and episode guides. Wiki content is licensed CC BY-SA 3.0, so this repository is shared under the same CC BY-SA 3.0 license, with attribution to the contributors of both wikis.
