@@ -1,6 +1,6 @@
 # Experimentopedia index
 
-629 experiments. 120 well-documented (own wiki article), 70 partial (a description in the official list), 439 sparse (little canonical info).
+629 experiments. 126 rich (own wiki article), 66 partial (official description or episode-guide listing), 426 with only an unverified fan-reported function, 11 sparse (nothing beyond a name).
 
 ## Browse
 
@@ -8,7 +8,7 @@
 
 ## Stitch! anime and unnumbered creations
 
-- [Transmuted experiments (Stitch! anime)](categories/transmuted.md) (20)
+- [Transmuted experiments (Stitch! anime)](categories/transmuted.md) (66)
 - [Dark End](special/dark-end.md)
 - [Skunkuna](special/skunkuna.md)
 - [Leroy Clones](special/leroy-clones.md)
@@ -25,15 +25,15 @@
 
 ## By function
 
-- [Technology and science](categories/tech.md) (38)
-- [Mischief and civic disturbance](categories/mischief.md) (167)
-- [Helpful and household](categories/helpful.md) (25)
-- [Shapeshifting, size and duplication](categories/body.md) (47)
-- [Function unknown (little canonical info)](categories/unknown.md) (439)
-- [Weather and nature](categories/weather.md) (62)
-- [Destruction and devouring](categories/destructive.md) (48)
-- [Mind, emotion and senses](categories/mind.md) (26)
-- [Other or unusual functions](categories/other.md) (17)
+- [Technology and science](categories/tech.md) (39)
+- [Mischief and civic disturbance](categories/mischief.md) (173)
+- [Helpful and household](categories/helpful.md) (23)
+- [Shapeshifting, size and duplication](categories/body.md) (46)
+- [Function unknown (little canonical info)](categories/unknown.md) (437)
+- [Weather and nature](categories/weather.md) (65)
+- [Destruction and devouring](categories/destructive.md) (49)
+- [Mind, emotion and senses](categories/mind.md) (25)
+- [Other or unusual functions](categories/other.md) (15)
 
 ## All experiments by number
 

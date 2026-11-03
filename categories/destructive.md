@@ -39,6 +39,7 @@ Sorted automatically by keywords in each experiment's description, so some exper
 - [Experiment 523: Slushy](../experiments/523.md)
 - [Experiment 544: Thresher](../experiments/544.md)
 - [Experiment 586: Tank](../experiments/586.md)
+- [Experiment 600: Woops](../experiments/600.md)
 - [Experiment 601: Kixx](../experiments/601.md)
 - [Experiment 602: Sinker](../experiments/602.md)
 - [Experiment 604: Houdini](../experiments/604.md)

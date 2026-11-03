@@ -21,7 +21,7 @@ def section(t,h):
     if not m: return ''
     paras=[clean(p) for p in m.group(1).split('\n') if p.strip() and not p.startswith(('[[File','{|','|','!'))]
     return '\n\n'.join(p for p in paras if p)
-def sents(s): return re.split(r'(?<=[.!?])\s+(?=[A-Z])',s.strip())
+def sents(s): return re.split(r'(?<!Mr\.)(?<!Mrs\.)(?<!Dr\.)(?<!Ms\.)(?<=[.!?])\s+(?=[A-Z])',s.strip())
 CATS=[('weather','Weather and nature',r'weather|rain|snow|storm|wind|cloud|temperature|heat|cold|ice|freez|volcan|lava|water|ocean|wave|tornado|lightning'),
 ('destructive','Destruction and devouring',r'destroy|destruct|explo|demolish|devour|eat |eats|consum|bomb|weapon|battle|army|fight|attack|crush|smash'),
 ('mind','Mind, emotion and senses',r'hypno|mind|emotion|dream|memor|sleep|happy|sad|anger|angry|fear|love|cry|laugh|thought|telepath|illusion|insult|bad luck'),
@@ -31,6 +31,17 @@ CATS=[('weather','Weather and nature',r'weather|rain|snow|storm|wind|cloud|tempe
 ('helpful','Helpful and household',r'help|clean|cook|fix|repair|household|garden|chore|heal|cure|serve|wash|build')]
 os.makedirs(os.path.join(B,'experiments'),exist_ok=True); os.makedirs(os.path.join(B,'categories'),exist_ok=True); os.makedirs(os.path.join(B,'series'),exist_ok=True)
 NOTE='Little canonical info: this experiment is listed in official sources (often only in the Leroy & Stitch finale lineup, end credits, or the Stitch! anime) but the shows and films never explain what it looks like or does. Nothing has been invented to fill the gap.'
+
+RU=json.load(open(os.path.join(B,'tools/ru_en.json'))); LSD=json.load(open(os.path.join(B,'tools/ls_desc.json')))
+LSP={}
+for k,v in json.load(open(os.path.join(B,'tools/ls_pages.json'))).items():
+    m=re.search(r'\((\d{3})\)',k) or (re.match(r'^(\d{3})$',k))
+    if m: LSP[m.group(1)]=v
+EPS=json.load(open(os.path.join(B,'tools/episodes.json'))); BYNUM=collections.defaultdict(list)
+for k,e in EPS.items():
+    for n in e['nums']: BYNUM[n].append((k,e))
+DEB={'0':'Lilo & Stitch 2 / original film era','1':'Stitch! The Movie','2':'Lilo & Stitch: The Series','3':'Leroy & Stitch','4':'Stitch! anime','S':'the video game Stitch: Experiment 626'}
+VIL=r'H[äa]msterviel|Delia|Gantu|Reuben'
 TRANS=[]
 TRX=r'transmut|mutated form|mutated [A-Z]|2\.0|Delia (?:altered|modified)|was modified|third season of the|Neo-PowerChip|Powercell'
 def transmuted(t):
@@ -43,8 +54,11 @@ def transmuted(t):
 cat_members=collections.defaultdict(list); ser_members=collections.defaultdict(list); stats=collections.Counter(); alpha=[]
 for r in rows:
     nm=name(r); title=f"Experiment {r['num']}"+(f": {nm}" if nm else '')
-    t=pages.get(r.get('page',''),''); desc=clean(r['desc'])
-    level='well-documented' if t else ('partial' if desc else 'sparse'); stats[level]+=1
+    t=pages.get(r.get('page',''),'') or LSP.get(r['num'],''); desc=clean(r['desc'])
+    if len(clean(LSD.get(r['num'],'')))>len(desc): desc=clean(LSD[r['num']])
+    eplist=BYNUM.get(r['num'],[])
+    ru=RU.get(r['num'])
+    level='rich' if t else ('partial' if (desc or eplist) else ('function only (unverified)' if ru else 'sparse')); stats[level]+=1
     L=[f"# {title}",'',f"- Number: {r['num']}",f"- Name: {nm or 'No name given in canon'}",f"- Series: {r['series']}",f"- Pod color: {clean(r['pod']) or 'Not shown'}",f"- First listed in: {clean(r['eps']) or 'Unknown'}",f"- How much is known: {level}",'']
     occ=infobox(t,'occupation') if t else ''
     lead=''
@@ -52,7 +66,7 @@ for r in rows:
         m=re.search(r"\n'''.*?\n",t); lead=clean(m.group(0)) if m else ''
     blob=' '.join([desc,occ,lead]).lower()
     if not desc and not t:
-        L+=['## Summary','',NOTE,'']
+        L+=['## Summary','',NOTE if not eplist else 'There is no official description of this experiment, but episode guides list it in the episodes below.','']
     else:
         L+=['## Summary','']
         if occ: L+=[f"Primary function: {occ}.",'']
@@ -85,11 +99,24 @@ for r in rows:
             m=re.search(r'\n==Trivia==\n(.*?)(?=\n==[^=])',t,re.S)
             tr=[clean(x) for x in re.findall(r'^\*+(.*)',m.group(1),re.M)] if m else []
             if vo or tr: L+=['## Trivia','']+([f"- Voice: {vo}"] if vo else [])+[f"- {x}" for x in tr if x]+['']
+    if ru: L+=['## Reported function (unverified fan source)','',f"A Russian-language fan list (disney-classic.ru, machine-translated) describes it this way: {ru['en'][0].upper()+ru['en'][1:]}"+(f" That list gives its debut as {DEB.get(ru['debut'],ru['debut'])}." if ru['debut'] else ''),'','This is not confirmed by Disney or the English wikis, so treat it as unverified.','']
+    if t:
+        f2=infobox(t,'function'); tp=infobox(t,'true_place')
+        if f2 and f2.lower() not in blob: L+=[f"- Function per the Lilo & Stitch Wiki: {f2}"]
+        if tp and 'one true place' not in ' '.join(L).lower(): L+=[f"- One true place per the Lilo & Stitch Wiki: {tp}",'']
+    if eplist:
+        L+=['## Episode guide appearances','','Episodes whose guides (liloandstitch.fandom.com) list this experiment:','']
+        for k,e in eplist:
+            ps=sents(clean(e['plot'].split('\n\n')[0].replace('\n',' ')))[:3] if e['plot'] else []
+            L+=[f"### {k} ({e['series']}"+(f", season {e['season']}" if e['season'] else '')+(f", episode {e['number']}" if e['number'] else '')+")",'',' '.join(ps) or 'No plot summary available.','']
+    animevil=[(k,e) for k,e in eplist if e['series']=='Stitch! anime' and re.search(VIL,e['plot'])]
     tm=transmuted(t) if t and r['num']!='262' else []
+    conf=bool(tm)
+    if animevil and not tm: tm=['Featured in Stitch! anime episodes where Hämsterviel or Delia drive the plot: '+', '.join('"'+k+'"' for k,e in animevil)+'. The episode guides do not say whether this experiment itself was transmuted; see the episode summaries above.']
     if tm:
         L+=['## Transmuted or altered form (Stitch! anime)','','In the Stitch! anime, Hämsterviel transmuted many experiments into evil minions (often marked with a yellow H on the forehead), and in season 3 Delia altered experiments to make them stronger, shown in the "2.0" episodes. Facts found for this experiment:','']+[f"- {x}" for x in tm]+['']
-        TRANS.append((r,title))
-    L+=['---','',"[Back to index](../INDEX.md)",'','Source: adapted from the Disney Wiki (disney.fandom.com) Experiments list'+(f" and the \"{r['page']}\" article" if t else '')+', licensed CC BY-SA. Unofficial fan reference.']
+        TRANS.append((r,title,conf))
+    L+=['---','',"[Back to index](../INDEX.md)",'','Sources: adapted from the Disney Wiki (disney.fandom.com) and the Lilo & Stitch Wiki (liloandstitch.fandom.com), both CC BY-SA; unverified function notes from disney-classic.ru (machine-translated). Unofficial fan reference.']
     open(os.path.join(B,'experiments',r['num']+'.md'),'w').write('\n'.join(L)+'\n')
     link=f"[{title}](experiments/{r['num']}.md)"
     ser_members[r['series']].append((r,title,level))
@@ -109,7 +136,7 @@ for i,(s,mem) in enumerate(ser_members.items()):
     open(os.path.join(B,'series',fn),'w').write(f"# {s}\n\n"+'\n'.join(f"- [{t}](../experiments/{r['num']}.md) ({lv})" for r,t,lv in mem)+"\n\n[Back to index](../INDEX.md)\n")
 alpha.sort(key=lambda x:x[0].lower())
 open(os.path.join(B,'ALPHABETICAL.md'),'w').write("# Alphabetical index of named experiments\n\n"+'\n'.join(f"- {n}: [Experiment {r['num']}](experiments/{r['num']}.md)" for n,r,t in alpha)+"\n\n[Back to index](INDEX.md)\n")
-I=["# Experimentopedia index","",f"{len(rows)} experiments. {stats['well-documented']} well-documented (own wiki article), {stats['partial']} partial (a description in the official list), {stats['sparse']} sparse (little canonical info).","","## Browse","","- [Alphabetical index of named experiments](ALPHABETICAL.md)","","## By series",""]
+I=["# Experimentopedia index","",f"{len(rows)} experiments. {stats['rich']} rich (own wiki article), {stats['partial']} partial (official description or episode-guide listing), {stats['function only (unverified)']} with only an unverified fan-reported function, {stats['sparse']} sparse (nothing beyond a name).","","## Browse","","- [Alphabetical index of named experiments](ALPHABETICAL.md)","","## By series",""]
 I+=[f"- [{s}](series/{fn}) ({n})" for s,fn,n in sfiles]+['','## By function','']
 I+=[f"- [{labels[k]}](categories/{k}.md) ({len(m)})" for k,m in cat_members.items()]+['','## All experiments by number','']
 I+=[f"- [{t}](experiments/{r['num']}.md)" for s in ser_members for r,t,lv in ser_members[s]]
@@ -132,6 +159,6 @@ for pg,fn,intro in [('Dark End','dark-end','Unnumbered experiment made by Delia 
         L+=['## Appearances and how it was resolved','','\n\n'.join(a for a in ap if a),'']
     L+=['---','','[Back to index](../INDEX.md)','',f'Source: adapted from the Disney Wiki "{pg}" article, CC BY-SA. Unofficial fan reference.']
     open(os.path.join(B,'special',fn+'.md'),'w').write('\n'.join(L)+'\n'); SP.append((pg,fn))
-open(os.path.join(B,'categories','transmuted.md'),'w').write("# Transmuted experiments (Stitch! anime)\n\nIn the Stitch! anime (2008 to 2011), Hämsterviel transmuted many of Jumba's experiments into stronger, evil minions, usually leaving a yellow H mark on the forehead. In season 3, Delia altered experiments further; those episodes are titled with \"2.0\". The anime is generally treated as non-canon to the Western series. Only experiments whose sources describe a changed form are listed; each page has a section called Transmuted or altered form.\n\n## Numbered experiments with a transmuted or altered form\n\n"+'\n'.join(f"- [{t}](../experiments/{r['num']}.md)" for r,t in TRANS)+"\n\n## Creations outside Jumba's numbering\n\n"+'\n'.join(f"- [{n}](../special/{f}.md)" for n,f in SP)+"\n\n[Back to index](../INDEX.md)\n")
+open(os.path.join(B,'categories','transmuted.md'),'w').write("# Transmuted experiments (Stitch! anime)\n\nIn the Stitch! anime (2008 to 2011), Hämsterviel transmuted many of Jumba's experiments into stronger, evil minions, usually leaving a yellow H mark on the forehead. In season 3, Delia altered experiments further; those episodes are titled with \"2.0\". The anime is generally treated as non-canon to the Western series. Only experiments whose sources describe a changed form are listed; each page has a section called Transmuted or altered form.\n\n## Numbered experiments with a transmuted or altered form\n\n"+'\n'.join(f"- [{t}](../experiments/{r['num']}.md)" for r,t,c in TRANS if c)+"\n\n## Experiments featured in Hämsterviel or Delia plots (transmutation not confirmed)\n\nThe episode guides list these in Stitch! anime episodes where Hämsterviel or Delia are scheming, but don't say whether each one was transmuted.\n\n"+'\n'.join(f"- [{t}](../experiments/{r['num']}.md)" for r,t,c in TRANS if not c)+"\n\n## Creations outside Jumba's numbering\n\n"+'\n'.join(f"- [{n}](../special/{f}.md)" for n,f in SP)+"\n\n[Back to index](../INDEX.md)\n")
 I=open(os.path.join(B,'INDEX.md')).read().replace('## By series','## Stitch! anime and unnumbered creations\n\n- [Transmuted experiments (Stitch! anime)](categories/transmuted.md) ('+str(len(TRANS))+')\n'+'\n'.join(f"- [{n}](special/{f}.md)" for n,f in SP)+'\n\n## By series',1)
 open(os.path.join(B,'INDEX.md'),'w').write(I); print('transmuted',len(TRANS),'special',SP)

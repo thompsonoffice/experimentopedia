@@ -21,11 +21,9 @@ Sorted automatically by keywords in each experiment's description, so some exper
 - [Experiment 397: Spats](../experiments/397.md)
 - [Experiment 505: Ploot](../experiments/505.md)
 - [Experiment 523: Slushy](../experiments/523.md)
-- [Experiment 531: Hisee](../experiments/531.md)
 - [Experiment 603: Zap](../experiments/603.md)
 - [Experiment 613: Yaarp](../experiments/613.md)
 - [Experiment 619: Splodyhead](../experiments/619.md)
 - [Experiment 625: Reuben](../experiments/625.md)
-- [Experiment 626: Stitch](../experiments/626.md)
 
 [Back to index](../INDEX.md)

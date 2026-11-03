@@ -16,9 +16,12 @@ Plain Markdown with headings and lists, made to read well with VoiceOver and oth
 - The `special` folder covers creations outside Jumba's numbering: Dark End (made by Delia), Skunkuna (made by Hämsterviel) and the Leroy clones.
 
 Every page says how much is known about the experiment:
-- well-documented: the experiment has its own wiki article, so the page covers appearance, powers, weaknesses, personality, one true place, appearances and trivia.
-- partial: there's a short official description only.
-- sparse: little canonical info. Many experiments are only a name in the Leroy & Stitch finale or credits, or come from the Stitch! anime. Nothing is made up to fill those gaps.
+- rich: it has its own article on the Disney Wiki or the Lilo & Stitch Wiki.
+- partial: there's a short official description, or episode guides list it in specific episodes (with plot summaries).
+- function only (unverified): the only information is a one-line function from a Russian fan list (disney-classic.ru), machine-translated and clearly marked as unverified.
+- sparse: nothing beyond a name or number. Nothing is made up to fill gaps.
+
+The transmuted category separates experiments with a confirmed transmuted or altered form from ones that only appear in Hämsterviel or Delia plots.
 
 ## How it is built
 
@@ -26,4 +29,4 @@ Like Drugopedia, the pages are generated. `tools/rows.json` and `tools/pages.jso
 
 ## Sources and license
 
-Text is condensed and adapted from the Disney Wiki at disney.fandom.com, mainly its "Experiments" list and the individual character articles. That wiki content is licensed CC BY-SA 3.0, so this repository is shared under the same CC BY-SA 3.0 license, with attribution to the Disney Wiki contributors.
+Text is condensed and adapted from the Disney Wiki (disney.fandom.com) and the Lilo & Stitch Wiki (liloandstitch.fandom.com), with unverified function notes machine-translated from disney-classic.ru. The wiki text comes, mainly its "Experiments" list and the individual character articles. That wiki content is licensed CC BY-SA 3.0, so this repository is shared under the same CC BY-SA 3.0 license, with attribution to the Disney Wiki contributors.

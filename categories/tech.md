@@ -34,6 +34,7 @@ Sorted automatically by keywords in each experiment's description, so some exper
 - [Experiment 600: Woops](../experiments/600.md)
 - [Experiment 607: Launch](../experiments/607.md)
 - [Experiment 610: Witch](../experiments/610.md)
+- [Experiment 619: Splodyhead](../experiments/619.md)
 - [Experiment 621: Chopsuey](../experiments/621.md)
 - [Experiment 624: Angel](../experiments/624.md)
 - [Experiment 625: Reuben](../experiments/625.md)

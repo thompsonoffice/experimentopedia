@@ -47,7 +47,6 @@ Sorted automatically by keywords in each experiment's description, so some exper
 - [Experiment 611: El Fin (Doomsday)](../experiments/611.md)
 - [Experiment 624: Angel](../experiments/624.md)
 - [Experiment 625: Reuben](../experiments/625.md)
-- [Experiment 626: Stitch](../experiments/626.md)
 - [Experiment 629: Leroy](../experiments/629.md)
 
 [Back to index](../INDEX.md)
