@@ -6,6 +6,13 @@
 
 - [Alphabetical index of named experiments](ALPHABETICAL.md)
 
+## Stitch! anime and unnumbered creations
+
+- [Transmuted experiments (Stitch! anime)](categories/transmuted.md) (20)
+- [Dark End](special/dark-end.md)
+- [Skunkuna](special/skunkuna.md)
+- [Leroy Clones](special/leroy-clones.md)
+
 ## By series
 
 - [0-Series: Jumba's test batch, including many household helpers](series/series-0.md) (100)

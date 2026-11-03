@@ -31,6 +31,15 @@ CATS=[('weather','Weather and nature',r'weather|rain|snow|storm|wind|cloud|tempe
 ('helpful','Helpful and household',r'help|clean|cook|fix|repair|household|garden|chore|heal|cure|serve|wash|build')]
 os.makedirs(os.path.join(B,'experiments'),exist_ok=True); os.makedirs(os.path.join(B,'categories'),exist_ok=True); os.makedirs(os.path.join(B,'series'),exist_ok=True)
 NOTE='Little canonical info: this experiment is listed in official sources (often only in the Leroy & Stitch finale lineup, end credits, or the Stitch! anime) but the shows and films never explain what it looks like or does. Nothing has been invented to fill the gap.'
+TRANS=[]
+TRX=r'transmut|mutated form|mutated [A-Z]|2\.0|Delia (?:altered|modified)|was modified|third season of the|Neo-PowerChip|Powercell'
+def transmuted(t):
+    out=[]
+    for para in t.split('\n'):
+        if para.startswith(('[[File','|','{','!')): continue
+        for x in sents(clean(para)):
+            if re.search(TRX,x) and 'mutated cross' not in x and 'Disney Infinity' not in x and len(x)>30 and not re.search(r'\.(jpg|png|gif)|screenCapture',x,re.I) and x.lstrip('*') not in out: out.append(x.lstrip('* '))
+    return out[:12]
 cat_members=collections.defaultdict(list); ser_members=collections.defaultdict(list); stats=collections.Counter(); alpha=[]
 for r in rows:
     nm=name(r); title=f"Experiment {r['num']}"+(f": {nm}" if nm else '')
@@ -76,6 +85,10 @@ for r in rows:
             m=re.search(r'\n==Trivia==\n(.*?)(?=\n==[^=])',t,re.S)
             tr=[clean(x) for x in re.findall(r'^\*+(.*)',m.group(1),re.M)] if m else []
             if vo or tr: L+=['## Trivia','']+([f"- Voice: {vo}"] if vo else [])+[f"- {x}" for x in tr if x]+['']
+    tm=transmuted(t) if t and r['num']!='262' else []
+    if tm:
+        L+=['## Transmuted or altered form (Stitch! anime)','','In the Stitch! anime, Hämsterviel transmuted many experiments into evil minions (often marked with a yellow H on the forehead), and in season 3 Delia altered experiments to make them stronger, shown in the "2.0" episodes. Facts found for this experiment:','']+[f"- {x}" for x in tm]+['']
+        TRANS.append((r,title))
     L+=['---','',"[Back to index](../INDEX.md)",'','Source: adapted from the Disney Wiki (disney.fandom.com) Experiments list'+(f" and the \"{r['page']}\" article" if t else '')+', licensed CC BY-SA. Unofficial fan reference.']
     open(os.path.join(B,'experiments',r['num']+'.md'),'w').write('\n'.join(L)+'\n')
     link=f"[{title}](experiments/{r['num']}.md)"
@@ -101,3 +114,24 @@ I+=[f"- [{s}](series/{fn}) ({n})" for s,fn,n in sfiles]+['','## By function','']
 I+=[f"- [{labels[k]}](categories/{k}.md) ({len(m)})" for k,m in cat_members.items()]+['','## All experiments by number','']
 I+=[f"- [{t}](experiments/{r['num']}.md)" for s in ser_members for r,t,lv in ser_members[s]]
 open(os.path.join(B,'INDEX.md'),'w').write('\n'.join(I)+'\n'); print(stats)
+
+extra=json.load(open(os.path.join(B,'tools/extra.json')))
+os.makedirs(os.path.join(B,'special'),exist_ok=True); SP=[]
+for pg,fn,intro in [('Dark End','dark-end','Unnumbered experiment made by Delia from Stitch-like blueprints; the final villain of Stitch! anime season 3.'),('Skunkuna','skunkuna','Experiment made by Hämsterviel, not Jumba, in the Stitch! anime.'),('Leroy Clones','leroy-clones','Clones of Experiment 629 (Leroy) made by Hämsterviel in Leroy & Stitch.')]:
+    t=extra.get(pg)
+    if not t: continue
+    L=[f"# {pg}",'',intro,'']
+    m=re.search(r"\n'''.*?\n",t)
+    if m: L+=['## Summary','',clean(m.group(0)),'']
+    for h,lab in [('Physical appearance','Appearance'),('Powers and abilities','Powers and abilities'),('Weaknesses','Weaknesses'),('Personality','Personality'),('Background','Background')]:
+        x=section(t,h)
+        if x: L+=[f"## {lab}",'',x,'']
+    m=re.search(r'\n==Appearances==\n(.*?)(?=\n==[^=])',t,re.S)
+    if m:
+        ap=[('### '+clean(l.strip('= ')) if l.startswith('===') else clean(l)) for l in m.group(1).split('\n') if l.strip() and not l.startswith(('[[File','{|','|','!')) and not re.match(r'^\s*[\]\}]+\s*$',l)]
+        L+=['## Appearances and how it was resolved','','\n\n'.join(a for a in ap if a),'']
+    L+=['---','','[Back to index](../INDEX.md)','',f'Source: adapted from the Disney Wiki "{pg}" article, CC BY-SA. Unofficial fan reference.']
+    open(os.path.join(B,'special',fn+'.md'),'w').write('\n'.join(L)+'\n'); SP.append((pg,fn))
+open(os.path.join(B,'categories','transmuted.md'),'w').write("# Transmuted experiments (Stitch! anime)\n\nIn the Stitch! anime (2008 to 2011), Hämsterviel transmuted many of Jumba's experiments into stronger, evil minions, usually leaving a yellow H mark on the forehead. In season 3, Delia altered experiments further; those episodes are titled with \"2.0\". The anime is generally treated as non-canon to the Western series. Only experiments whose sources describe a changed form are listed; each page has a section called Transmuted or altered form.\n\n## Numbered experiments with a transmuted or altered form\n\n"+'\n'.join(f"- [{t}](../experiments/{r['num']}.md)" for r,t in TRANS)+"\n\n## Creations outside Jumba's numbering\n\n"+'\n'.join(f"- [{n}](../special/{f}.md)" for n,f in SP)+"\n\n[Back to index](../INDEX.md)\n")
+I=open(os.path.join(B,'INDEX.md')).read().replace('## By series','## Stitch! anime and unnumbered creations\n\n- [Transmuted experiments (Stitch! anime)](categories/transmuted.md) ('+str(len(TRANS))+')\n'+'\n'.join(f"- [{n}](special/{f}.md)" for n,f in SP)+'\n\n## By series',1)
+open(os.path.join(B,'INDEX.md'),'w').write(I); print('transmuted',len(TRANS),'special',SP)

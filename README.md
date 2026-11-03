@@ -12,7 +12,8 @@ Plain Markdown with headings and lists, made to read well with VoiceOver and oth
 - [ALPHABETICAL.md](ALPHABETICAL.md) lists the named experiments A to Z.
 - The `experiments` folder has one page per experiment, from 000 to 629.
 - The `series` folder groups them by Jumba's numbering series.
-- The `categories` folder groups them by what they do.
+- The `categories` folder groups them by what they do, including [Transmuted experiments (Stitch! anime)](categories/transmuted.md): experiments Hämsterviel transmuted or Delia altered (the "2.0" episodes), and Stitch's anime-only Powercell powers.
+- The `special` folder covers creations outside Jumba's numbering: Dark End (made by Delia), Skunkuna (made by Hämsterviel) and the Leroy clones.
 
 Every page says how much is known about the experiment:
 - well-documented: the experiment has its own wiki article, so the page covers appearance, powers, weaknesses, personality, one true place, appearances and trivia.
